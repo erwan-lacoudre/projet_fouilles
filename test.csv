@@ -1,420 +1,420 @@
-Index,Title,Artist,Top Genre,Year,Beats Per Minute (BPM),Energy,Danceability,Loudness (dB),Liveness,Valence,Length (Duration),Acousticness,Speechiness,Popularity,Rock,Pop,Standards,Metal,Indie,Cabaret,Soul,Wave,Invasion,Hip-hop
-2,Black Night,Deep Purple,album rock,2000,135,79,50,-11,17,81,207,17,7,39,1,0,0,0,0,0,0,0,0,0
-3,Clint Eastwood,Gorillaz,alternative hip hop,2001,168,69,66,-9,7,52,341,2,17,69,0,0,0,0,0,0,0,0,0,1
-6,The Road Ahead (Miles Of The Unknown),City To City,alternative pop rock,2004,99,46,54,-9,14,14,247,0,2,45,1,0,0,0,0,0,0,0,0,0
-7,She Will Be Loved,Maroon 5,pop,2002,102,71,71,-6,13,54,257,6,3,74,0,1,0,0,0,0,0,0,0,0
-11,Love Me Tender,Elvis Presley,adult standards,2002,109,5,44,-16,11,31,162,88,4,49,0,0,1,0,0,0,0,0,0,0
-14,I'm going home,Ten Years After,album rock,2005,117,93,38,-2,81,40,639,18,10,26,1,0,0,0,0,0,0,0,0,0
-18,Uninvited,Alanis Morissette,alternative rock,2005,127,54,38,-5,9,19,276,2,3,57,1,0,0,0,0,0,0,0,0,0
-22,The Cave,Mumford & Sons,modern folk rock,2009,142,51,60,-10,11,35,218,5,4,67,1,0,0,0,0,0,0,0,0,0
-39,All My Life,Foo Fighters,alternative metal,2002,168,60,58,-6,48,65,263,0,5,72,0,0,0,1,0,0,0,0,0,0
-58,"Listen (From the Motion Picture ""Dreamgirls"")",Beyoncé,dance pop,2006,123,59,48,-5,18,20,218,27,5,44,0,1,0,0,0,0,0,0,0,0
-60,Goin To The Run,Golden Earring,album rock,2008,124,59,47,-8,28,18,236,42,3,38,1,0,0,0,0,0,0,0,0,0
-65,Kryptonite,3 Doors Down,alternative metal,2000,99,87,55,-6,17,54,234,1,3,77,0,0,0,1,0,0,0,0,0,0
-75,Little Lion Man,Mumford & Sons,modern folk rock,2009,139,48,52,-8,9,46,247,3,3,67,1,0,0,0,0,0,0,0,0,0
-76,Dirty Diana,Michael Jackson,pop,2003,131,80,75,-5,42,37,281,24,5,55,0,1,0,0,0,0,0,0,0,0
-79,Wat Zou Je Doen - Live,Marco Borsato,dutch cabaret,2006,104,92,66,-6,61,46,229,38,17,30,0,0,0,0,0,1,0,0,0,0
-87,Modern World,Anouk,dutch indie,2007,120,76,70,-5,13,68,210,12,6,42,0,0,0,0,1,0,0,0,0,0
-89,This Is Not America - 2002 Remaster,David Bowie,album rock,2002,115,67,72,-12,5,65,231,6,4,43,1,0,0,0,0,0,0,0,0,0
-125,Papa Was A Rolling Stone,The Temptations,adult standards,2001,120,60,85,-12,19,87,433,6,4,44,0,0,1,0,0,0,0,0,0,0
-135,Tribute,Tenacious D,alternative metal,2001,94,77,37,-6,9,42,248,18,7,59,0,0,0,1,0,0,0,0,0,0
-136,You Know I'm No Good,Amy Winehouse,british soul,2006,103,81,71,-4,7,73,257,1,3,74,0,0,0,0,0,0,1,0,0,0
-143,Alie,Normaal,dutch rock,2008,93,77,52,-11,6,93,181,14,6,42,1,0,0,0,0,0,0,0,0,0
-146,Love You More,Racoon,dutch indie,2005,171,20,34,-11,11,30,197,76,3,43,0,0,0,0,1,0,0,0,0,0
-148,Zij Maakt Het Verschil,De Poema's,dutch pop,2003,173,55,34,-8,12,36,280,33,4,54,0,1,0,0,0,0,0,0,0,0
-153,Going To A Town,Rufus Wainwright,canadian pop,2007,124,46,56,-7,10,19,245,72,3,38,0,1,0,0,0,0,0,0,0,0
-156,God Put a Smile upon Your Face,Coldplay,permanent wave,2002,127,56,61,-6,4,24,297,18,3,64,0,0,0,0,0,0,0,1,0,0
-159,Accidentally In Love,Counting Crows,alternative rock,2004,138,93,55,-4,9,81,189,4,4,59,1,0,0,0,0,0,0,0,0,0
-164,Zing - Vecht - Huil - Bid - Lach - Werk En Bewonder,Ramses Shaffy,dutch cabaret,2006,130,32,53,-17,97,46,281,53,8,41,0,0,0,0,0,1,0,0,0,0
-166,My Immortal,Evanescence,alternative metal,2003,79,27,19,-9,13,10,263,86,4,74,0,0,0,1,0,0,0,0,0,0
-179,Another 45 Miles,Golden Earring,album rock,2008,91,59,56,-10,23,48,284,28,3,50,1,0,0,0,0,0,0,0,0,0
-181,Father & Friend,Alain Clark,dutch pop,2007,98,62,66,-9,7,66,256,51,3,35,0,1,0,0,0,0,0,0,0,0
-184,Magnificent,U2,irish rock,2009,115,72,53,-6,11,59,324,0,3,44,1,0,0,0,0,0,0,0,0,0
-186,Belle Hélène,Doe Maar,dutch cabaret,2008,138,56,74,-10,8,98,170,11,4,49,0,0,0,0,0,1,0,0,0,0
-189,Plug in Baby,Muse,modern rock,2001,136,97,41,-4,11,35,218,0,5,53,1,0,0,0,0,0,0,0,0,0
-192,Heart Of Glass,Blondie,candy pop,2006,115,70,73,-8,6,41,252,0,3,52,0,1,0,0,0,0,0,0,0,0
-194,Stuck In A Moment You Can't Get Out Of,U2,irish rock,2000,159,64,52,-5,17,32,272,39,2,52,1,0,0,0,0,0,0,0,0,0
-203,De Kapitein Deel II,Acda en de Munnik,dutch cabaret,2000,115,61,67,-11,11,67,181,41,3,51,0,0,0,0,0,1,0,0,0,0
-208,Mary Jane's Last Dance,Tom Petty and the Heartbreakers,album rock,2008,170,66,46,-9,33,53,274,3,6,72,1,0,0,0,0,0,0,0,0,0
-226,Here Without You,3 Doors Down,alternative metal,2002,144,55,54,-7,13,23,239,5,2,75,0,0,0,1,0,0,0,0,0,0
-233,Song 2,Blur,alternative rock,2000,130,71,66,-7,7,86,122,0,9,64,1,0,0,0,0,0,0,0,0,0
-236,Fireflies,Owl City,pop,2009,180,66,51,-7,12,46,228,3,4,79,0,1,0,0,0,0,0,0,0,0
-237,Lost,Anouk,dutch indie,2004,90,25,52,-10,14,14,222,22,3,51,0,0,0,0,1,0,0,0,0,0
-249,Cambodia,Kim Wilde,dance pop,2006,111,57,70,-8,11,71,236,1,3,51,0,1,0,0,0,0,0,0,0,0
-259,Live And Let Die - Live,Paul McCartney,album rock,2003,150,93,24,-3,97,23,185,36,8,60,1,0,0,0,0,0,0,0,0,0
-262,In My Place,Coldplay,permanent wave,2002,145,59,43,-5,30,19,227,6,3,70,0,0,0,0,0,0,0,1,0,0
-265,Empire State Of Mind,JAY-Z,east coast hip hop,2009,174,96,49,-2,46,81,277,3,39,77,0,0,0,0,0,0,0,0,0,1
-266,Drops of Jupiter,Train,dance pop,2001,79,64,47,-6,15,50,260,15,3,77,0,1,0,0,0,0,0,0,0,0
-270,The Rising,Bruce Springsteen,classic rock,2002,110,76,50,-6,9,33,287,7,3,53,1,0,0,0,0,0,0,0,0,0
-291,Shut Your Eyes,Snow Patrol,irish rock,2006,125,74,69,-6,8,84,197,15,3,42,1,0,0,0,0,0,0,0,0,0
-295,Vogue,Madonna,dance pop,2009,116,88,74,-6,42,33,317,0,4,66,0,1,0,0,0,0,0,0,0,0
-307,Human,The Killers,modern rock,2008,135,80,56,-8,9,58,245,0,6,73,1,0,0,0,0,0,0,0,0,0
-308,Lady Madonna - Remastered 2015,The Beatles,british invasion,2000,110,78,65,-5,22,57,137,14,3,63,0,0,0,0,0,0,0,0,1,0
-315,Sing for Absolution,Muse,modern rock,2004,170,68,44,-7,9,19,295,46,3,57,1,0,0,0,0,0,0,0,0,0
-316,Superstition - Single Version,Stevie Wonder,adult standards,2002,100,63,63,-12,4,87,245,4,7,77,0,0,1,0,0,0,0,0,0,0
-318,By the Way,Red Hot Chili Peppers,alternative rock,2002,122,97,45,-5,10,20,217,3,11,74,1,0,0,0,0,0,0,0,0,0
-326,Beautiful Day,U2,irish rock,2000,136,93,54,-6,36,45,246,1,5,63,1,0,0,0,0,0,0,0,0,0
-330,What It Is,Mark Knopfler,classic rock,2000,122,67,63,-7,28,48,298,64,3,43,1,0,0,0,0,0,0,0,0,0
-335,I'm Yours,Jason Mraz,acoustic pop,2008,151,46,69,-8,11,72,242,60,5,82,0,1,0,0,0,0,0,0,0,0
-336,Onderweg,Abel,dutch rock,2000,98,68,62,-6,8,41,190,35,2,59,1,0,0,0,0,0,0,0,0,0
-342,You Oughta Know,Alanis Morissette,alternative rock,2005,105,86,64,-7,87,47,250,23,7,52,1,0,0,0,0,0,0,0,0,0
-343,Overcome,Live,alternative metal,2001,146,40,38,-7,10,19,256,78,3,49,0,0,0,1,0,0,0,0,0,0
-348,Nine Million Bicycles,Katie Melua,uk pop,2005,82,25,53,-16,12,34,197,52,3,61,0,1,0,0,0,0,0,0,0,0
-352,Mooie Dag,BLØF,dutch pop,2002,85,58,50,-11,14,30,279,11,3,40,0,1,0,0,0,0,0,0,0,0
-355,Hallelujah,Lisa Lois,dutch pop,2009,182,24,19,-13,11,11,226,24,3,49,0,1,0,0,0,0,0,0,0,0
-356,Somewhere Only We Know,Keane,modern rock,2004,172,66,45,-4,8,37,236,8,3,67,1,0,0,0,0,0,0,0,0,0
-362,Feel Good Inc.,Gorillaz,alternative hip hop,2005,139,71,82,-7,61,77,223,1,18,80,0,0,0,0,0,0,0,0,0,1
-363,Alles Is Liefde,BLØF,dutch pop,2007,144,77,51,-6,17,57,210,0,4,36,0,1,0,0,0,0,0,0,0,0
-377,Trouble,Coldplay,permanent wave,2000,140,55,56,-7,17,19,273,19,3,71,0,0,0,0,0,0,0,1,0,0
-379,Black Betty,Ram Jam,album rock,2005,117,73,49,-9,16,83,236,0,9,61,1,0,0,0,0,0,0,0,0,0
-385,Brabant,Guus Meeuwis,dutch pop,2002,82,47,41,-7,10,39,210,56,3,61,0,1,0,0,0,0,0,0,0,0
-386,Mother Earth,Within Temptation,dutch metal,2003,105,59,43,-6,24,15,330,2,3,45,0,0,0,1,0,0,0,0,0,0
-389,TRUE - Single Edit,Spandau Ballet,dance rock,2008,97,55,74,-9,6,35,328,51,3,72,1,0,0,0,0,0,0,0,0,0
-392,Clocks,Coldplay,permanent wave,2002,131,75,58,-7,18,26,308,60,3,76,0,0,0,0,0,0,0,1,0,0
-398,Nutbush City Limits,Ike & Tina Turner,brill building pop,2008,77,89,69,-6,3,91,182,9,3,56,0,1,0,0,0,0,0,0,0,0
-402,Sterrenstof,De Jeugd Van Tegenwoordig,dutch hip hop,2010,97,79,71,-4,20,90,221,32,11,48,0,0,0,0,0,0,0,0,0,1
-404,Mag Het Licht Uit,De Dijk,dutch indie,2010,113,42,74,-10,10,58,259,36,3,43,0,0,0,0,1,0,0,0,0,0
-409,I Follow Rivers - Live @ Giel!,Triggerfinger,belgian rock,2010,110,41,67,-9,3,71,214,15,6,42,1,0,0,0,0,0,0,0,0,0
-413,Alors on danse,Stromae,belgian pop,2010,120,59,79,-9,7,73,206,9,8,61,0,1,0,0,0,0,0,0,0,0
-427,You Got It,Roy Orbison,adult standards,2010,115,59,66,-12,31,67,204,60,3,44,0,0,1,0,0,0,0,0,0,0
-428,Atmosphere - 2010 Remaster,Joy Division,alternative rock,2010,120,39,62,-12,12,44,249,23,3,51,1,0,0,0,0,0,0,0,0,0
-429,Grenade,Bruno Mars,dance pop,2010,110,56,71,-7,12,23,223,15,6,75,0,1,0,0,0,0,0,0,0,0
-435,Set Fire to the Rain,Adele,british soul,2011,108,68,61,-4,13,47,242,0,3,75,0,0,0,0,0,0,1,0,0,0
-440,Rood,Marco Borsato,dutch cabaret,2011,138,78,48,-8,8,18,319,1,5,53,0,0,0,0,0,1,0,0,0,0
-442,Still Loving You,Scorpions,album rock,2011,104,61,28,-5,10,8,403,0,3,72,1,0,0,0,0,0,0,0,0,0
-447,Prachtig mooie dag,Daniël Lohues,dutch indie,2011,103,69,55,-4,8,56,161,10,3,42,0,0,0,0,1,0,0,0,0,0
-450,Faster,Within Temptation,dutch metal,2011,120,93,51,-3,14,48,264,0,4,53,0,0,0,1,0,0,0,0,0,0
-454,Kan Ik Iets Voor Je Doen,De Dijk,dutch indie,2011,79,73,50,-6,31,45,200,14,3,30,0,0,0,0,1,0,0,0,0,0
-455,Driver's Seat,Sniff 'n' The Tears,classic uk pop,2011,133,80,74,-8,19,98,239,0,4,54,0,1,0,0,0,0,0,0,0,0
-456,Zing Voor Me,Lange Frans,dutch hip hop,2011,82,52,43,-9,22,56,216,80,7,52,0,0,0,0,0,0,0,0,0,1
-458,Waarom Nou Jij,Marco Borsato,dutch cabaret,2011,140,51,44,-8,13,25,245,12,3,40,0,0,0,0,0,1,0,0,0,0
-463,Happiness,Jonathan Jeremiah,dutch indie,2011,89,57,53,-10,13,49,182,72,6,49,0,0,0,0,1,0,0,0,0,0
-468,I Won' T Let You Down,Road Band,pop,2011,106,35,64,-14,7,59,233,54,3,33,0,1,0,0,0,0,0,0,0,0
-469,Love On Top,Beyoncé,dance pop,2011,94,75,65,-5,60,65,267,8,9,76,0,1,0,0,0,0,0,0,0,0
-485,Demons,Imagine Dragons,modern rock,2012,90,71,51,-3,33,43,175,19,3,73,1,0,0,0,0,0,0,0,0,0
-488,Try,P!nk,dance pop,2012,104,63,67,-7,9,55,248,0,3,73,0,1,0,0,0,0,0,0,0,0
-490,Home Again,Kensington,dutch pop,2012,142,75,50,-6,35,30,197,1,4,44,0,1,0,0,0,0,0,0,0,0
-491,Tubular Bells,Mike Oldfield,album rock,2012,149,20,28,-17,13,16,809,49,3,31,1,0,0,0,0,0,0,0,0,0
-498,Lover of the Light,Mumford & Sons,modern folk rock,2012,107,69,30,-7,27,37,315,1,5,57,1,0,0,0,0,0,0,0,0,0
-500,On Top Of The World,Imagine Dragons,modern rock,2012,100,93,64,-6,9,76,190,9,15,66,1,0,0,0,0,0,0,0,0,0
-502,Home Again,Michael Kiwanuka,british soul,2012,85,32,52,-11,12,27,212,70,3,51,0,0,0,0,0,0,1,0,0,0
-514,Later Als Ik Groter Ben,BLØF,dutch pop,2012,130,73,53,-5,8,57,205,0,3,48,0,1,0,0,0,0,0,0,0,0
-516,Stay - Album Version (Edited),Rihanna,barbadian pop,2012,112,31,62,-10,12,13,241,95,3,66,0,1,0,0,0,0,0,0,0,0
-528,I See Fire,Ed Sheeran,pop,2013,76,5,63,-21,10,20,301,56,4,64,0,1,0,0,0,0,0,0,0,0
-539,Waves,Mr. Probz,dutch hip hop,2013,174,28,36,-12,38,20,174,54,4,59,0,0,0,0,0,0,0,0,0,1
-541,All I Want,Kodaline,irish pop,2013,86,41,21,-10,8,16,306,17,4,72,0,1,0,0,0,0,0,0,0,0
-544,Just Say Yes,Snow Patrol,irish rock,2013,108,88,54,-5,3,25,282,2,3,48,1,0,0,0,0,0,0,0,0,0
-553,Love You Like I Love Myself,Herman Brood & His Wild Romance,dutch indie,2013,148,84,52,-7,20,86,213,1,6,28,0,0,0,0,1,0,0,0,0,0
-554,I Sat By The Ocean,Queens of the Stone Age,alternative metal,2013,117,78,52,-4,11,90,236,0,4,66,0,0,0,1,0,0,0,0,0,0
-561,The Road To Mandalay,Robbie Williams,dance pop,2013,99,68,62,-8,16,53,240,11,3,30,0,1,0,0,0,0,0,0,0,0
-562,Iron Sky,Paolo Nutini,british soul,2014,140,63,39,-7,11,32,373,24,3,49,0,0,0,0,0,0,1,0,0,0
-563,A Sky Full of Stars,Coldplay,permanent wave,2014,125,64,55,-7,22,15,268,1,3,78,0,0,0,0,0,0,0,1,0,0
-566,Thinking out Loud,Ed Sheeran,pop,2014,79,45,78,-6,18,59,282,47,3,84,0,1,0,0,0,0,0,0,0,0
-572,Op 't platteland,Daniël Lohues,dutch indie,2014,80,37,56,-10,9,28,182,93,4,27,0,0,0,0,1,0,0,0,0,0
-578,Photograph,Ed Sheeran,pop,2014,108,38,61,-10,10,20,259,61,5,84,0,1,0,0,0,0,0,0,0,0
-582,Home,Dotan,dutch pop,2014,130,70,76,-9,4,30,268,7,4,42,0,1,0,0,0,0,0,0,0,0
-587,Glycerine,Bush,alternative metal,2014,114,34,44,-11,10,8,266,4,3,65,0,0,0,1,0,0,0,0,0,0
-599,Done With It,Kensington,dutch pop,2014,116,78,65,-7,10,63,203,13,4,49,0,1,0,0,0,0,0,0,0,0
-602,Nothing Really Matters,Mr. Probz,dutch hip hop,2014,135,23,40,-9,11,28,222,89,4,61,0,0,0,0,0,0,0,0,0,1
-603,Promises of No Man's Land,Blaudzun,dutch indie,2014,124,85,62,-6,24,64,215,12,3,43,0,0,0,0,1,0,0,0,0,0
-609,Dat Ik Je Mis,Maaike Ouboter,dutch pop,2015,174,13,50,-13,10,28,256,88,6,29,0,1,0,0,0,0,0,0,0,0
-621,For Bitter Or Worse,Anouk,dutch indie,2015,83,41,27,-8,12,32,255,29,3,21,0,0,0,0,1,0,0,0,0,0
-623,Hymn for the Weekend,Coldplay,permanent wave,2015,90,74,49,-5,30,36,259,26,4,78,0,0,0,0,0,0,0,1,0,0
-644,Ship To Wreck,Florence + The Machine,art pop,2015,142,92,56,-4,28,59,235,0,3,54,0,1,0,0,0,0,0,0,0,0
-646,Happy Xmas (War Is Over),John Lennon,album rock,2015,147,68,40,-6,68,60,212,18,3,47,1,0,0,0,0,0,0,0,0,0
-647,Sorry,Kensington,dutch pop,2016,134,41,46,-8,10,9,227,50,3,63,0,1,0,0,0,0,0,0,0,0
-654,When We Were Young,Adele,british soul,2016,144,59,38,-6,9,27,291,35,5,73,0,0,0,0,0,0,1,0,0,0
-655,Do I Ever,Kensington,dutch pop,2016,163,79,39,-6,40,34,204,0,5,53,0,1,0,0,0,0,0,0,0,0
-676,Heathens,Twenty One Pilots,modern rock,2016,90,40,73,-9,11,55,196,8,3,81,1,0,0,0,0,0,0,0,0,0
-684,Perfect,Ed Sheeran,pop,2017,95,45,60,-6,11,17,263,16,2,87,0,1,0,0,0,0,0,0,0,0
-692,Castle on the Hill,Ed Sheeran,pop,2017,135,83,46,-5,14,47,261,2,10,79,0,1,0,0,0,0,0,0,0,0
-697,Whatever It Takes,Imagine Dragons,modern rock,2017,135,66,67,-5,12,56,201,4,3,82,1,0,0,0,0,0,0,0,0,0
-699,Iederene Hef Een Reden,Bökkers,dutch rock,2017,108,61,57,-9,10,69,185,56,4,41,1,0,0,0,0,0,0,0,0,0
-713,Holiday,Green Day,modern rock,2017,147,89,55,-3,89,72,233,0,3,67,1,0,0,0,0,0,0,0,0,0
-716,Pain,The War On Drugs,chamber pop,2017,116,83,52,-4,8,48,331,0,4,62,0,1,0,0,0,0,0,0,0,0
-717,Love On The Rocks,Neil Diamond,adult standards,2017,103,31,40,-8,12,31,262,92,3,40,0,0,1,0,0,0,0,0,0,0
-718,Tuesday Afternoon (Forever Afternoon),The Moody Blues,album rock,2017,114,32,50,-13,24,30,249,10,3,50,1,0,0,0,0,0,0,0,0,0
-720,Nicotine,Chef'Special,dutch indie,2017,90,30,64,-10,10,44,238,62,3,36,0,0,0,0,1,0,0,0,0,0
-722,Beautiful Trauma,P!nk,dance pop,2017,96,62,41,-6,40,23,250,9,7,68,0,1,0,0,0,0,0,0,0,0
-725,Skin,Rag'n'Bone Man,neo soul,2017,171,75,56,-8,15,35,240,27,31,69,0,0,0,0,0,0,1,0,0,0
-728,Kleine Jongen,Andre Hazes,dutch pop,2018,91,70,54,-6,10,56,221,5,3,30,0,1,0,0,0,0,0,0,0,0
-729,Duurt Te Lang,Davina Michelle,dutch pop,2018,174,44,64,-14,9,15,154,13,20,68,0,1,0,0,0,0,0,0,0,0
-736,Verdronken Vlinder,Boudewijn de Groot,dutch indie,2018,128,54,33,-9,21,82,146,57,4,29,0,0,0,0,1,0,0,0,0,0
-742,Welterusten Mijnheer De President,Boudewijn de Groot,dutch indie,2018,131,41,55,-11,24,86,152,46,5,23,0,0,0,0,1,0,0,0,0,0
-751,Een Beetje Verliefd,Andre Hazes,dutch pop,2018,198,61,30,-7,15,33,251,6,3,32,0,1,0,0,0,0,0,0,0,0
-763,De Zon Op,Diggy Dex,dutch hip hop,2018,100,57,74,-8,10,57,209,51,4,52,0,0,0,0,0,0,0,0,0,1
-778,In My Blood,Shawn Mendes,canadian pop,2018,140,71,62,-7,13,49,211,6,7,82,0,1,0,0,0,0,0,0,0,0
-782,Don't You (Forget About Me),Simple Minds,art rock,2019,111,75,67,-9,29,69,261,8,3,73,1,0,0,0,0,0,0,0,0,0
-791,About A Girl - Live Version,Nirvana,alternative rock,2019,121,76,61,-9,73,63,218,14,7,50,1,0,0,0,0,0,0,0,0,0
-792,DEUTSCHLAND,Rammstein,alternative metal,2019,120,90,52,-5,10,24,322,0,4,72,0,0,0,1,0,0,0,0,0,0
-796,Homburg - Single Version - 2009 Remaster - Mono,Procol Harum,album rock,2019,142,66,36,-8,6,38,237,10,3,32,1,0,0,0,0,0,0,0,0,0
-799,Dancing On My Own,Calum Scott,australian pop,2019,113,17,68,-9,10,24,260,84,3,28,0,1,0,0,0,0,0,0,0,0
-801,Let It Be - Remastered 2009,The Beatles,british invasion,1970,143,40,44,-8,11,41,243,63,3,79,0,0,0,0,0,0,0,0,1,0
-806,The Boxer,Simon & Garfunkel,classic rock,1970,93,49,44,-14,16,63,309,70,6,72,1,0,0,0,0,0,0,0,0,0
-809,Samba Pa Ti,Santana,blues rock,1970,92,36,41,-13,8,27,285,83,3,63,1,0,0,0,0,0,0,0,0,0
-810,Immigrant Song - Remaster,Led Zeppelin,album rock,1970,113,93,56,-10,35,62,146,1,6,77,1,0,0,0,0,0,0,0,0,0
-811,Who'll Stop The Rain,Creedence Clearwater Revival,album rock,1970,124,80,60,-7,7,62,147,4,3,66,1,0,0,0,0,0,0,0,0,0
-812,Our House,"Crosby, Stills, Nash & Young",album rock,1970,140,21,59,-15,12,38,180,90,5,68,1,0,0,0,0,0,0,0,0,0
-818,Question,The Moody Blues,album rock,1970,76,66,22,-10,47,32,344,2,5,50,1,0,0,0,0,0,0,0,0,0
-830,25 or 6 to 4 - 2002 Remaster,Chicago,adult standards,1970,147,91,60,-7,8,72,290,31,6,64,0,0,1,0,0,0,0,0,0,0
-833,Into the Mystic - 2013 Remaster,Van Morrison,classic rock,1970,86,52,61,-10,12,80,206,37,3,72,1,0,0,0,0,0,0,0,0,0
-835,(They Long To Be) Close To You,Carpenters,adult standards,1970,89,25,53,-15,12,24,276,71,3,60,0,0,1,0,0,0,0,0,0,0
-836,Move On Up,Curtis Mayfield,chicago soul,1970,139,97,54,-6,12,93,166,42,9,67,0,0,0,0,0,0,1,0,0,0
-840,Stairway to Heaven - Remaster,Led Zeppelin,album rock,1971,82,34,34,-12,12,20,483,58,3,79,1,0,0,0,0,0,0,0,0,0
-843,Echoes,Pink Floyd,album rock,1971,134,32,28,-17,11,14,1412,37,4,58,1,0,0,0,0,0,0,0,0,0
-849,Ain't No Sunshine,Bill Withers,classic soul,1971,80,42,48,-11,12,51,125,46,12,76,0,0,0,0,0,0,1,0,0,0
-850,Wild Horses,The Rolling Stones,album rock,1971,140,39,43,-7,8,16,342,69,3,72,1,0,0,0,0,0,0,0,0,0
-853,Halo of Flies,Alice Cooper,album rock,1971,122,57,39,-13,9,40,502,39,5,44,1,0,0,0,0,0,0,0,0,0
-858,One of These Days,Pink Floyd,album rock,1971,104,51,38,-15,54,40,355,1,5,55,1,0,0,0,0,0,0,0,0,0
-859,Nothing Rhymed,Gilbert O'Sullivan,adult standards,1971,175,59,23,-9,13,55,204,31,4,35,0,0,1,0,0,0,0,0,0,0
-861,You've Got a Friend,Carole King,adult standards,1971,169,26,47,-11,12,46,309,88,3,68,0,0,1,0,0,0,0,0,0,0
-865,Mercedes Benz,Janis Joplin,blues rock,1971,87,11,70,-15,7,52,108,94,55,58,1,0,0,0,0,0,0,0,0,0
-867,You've Got a Friend,James Taylor,adult standards,1971,92,28,70,-15,8,45,269,68,3,68,0,0,1,0,0,0,0,0,0,0
-874,Give Up Your Guns,The Buoys,alternative pop rock,1971,131,50,42,-13,20,66,254,48,3,39,1,0,0,0,0,0,0,0,0,0
-875,Love Her Madly,The Doors,album rock,1971,147,59,56,-7,4,97,198,6,3,67,1,0,0,0,0,0,0,0,0,0
-876,Rock and Roll - Remaster,Led Zeppelin,album rock,1971,170,89,32,-7,9,87,221,0,4,67,1,0,0,0,0,0,0,0,0,0
-877,Black Dog - Remaster,Led Zeppelin,album rock,1971,81,86,44,-8,24,75,295,40,9,73,1,0,0,0,0,0,0,0,0,0
-884,Perfect Day,Lou Reed,art rock,1972,145,27,40,-12,10,9,225,74,3,69,1,0,0,0,0,0,0,0,0,0
-893,Ben - Single Version,Michael Jackson,pop,1972,136,16,44,-11,11,29,167,91,3,53,0,1,0,0,0,0,0,0,0,0
-898,Whiskey In The Jar,Thin Lizzy,album rock,1972,128,69,56,-11,20,75,345,53,4,63,1,0,0,0,0,0,0,0,0,0
-899,Listen to the Music,The Doobie Brothers,album rock,1972,106,60,65,-13,7,91,227,22,3,75,1,0,0,0,0,0,0,0,0,0
-905,"Close to the Edge (i. The Solid Time of Change, ii. Total Mass Retain, iii. I Get up I Get Down, iv. Seasons of Man) - 2003 Remaster",Yes,album rock,1972,81,60,22,-11,41,25,1121,27,6,47,1,0,0,0,0,0,0,0,0,0
-911,Do It Again,Steely Dan,album rock,1972,125,54,68,-10,6,96,357,22,3,69,1,0,0,0,0,0,0,0,0,0
-916,Time,Pink Floyd,album rock,1973,120,48,36,-12,18,36,414,52,8,70,1,0,0,0,0,0,0,0,0,0
-921,La Grange - 2005 Remaster,ZZ Top,album rock,1973,81,64,55,-10,20,61,230,0,22,74,1,0,0,0,0,0,0,0,0,0
-923,Us and Them,Pink Floyd,album rock,1973,73,30,36,-15,63,13,469,86,3,65,1,0,0,0,0,0,0,0,0,0
-925,Band On The Run - Remastered 2010,Paul McCartney,album rock,1973,125,60,48,-9,11,67,313,8,3,71,1,0,0,0,0,0,0,0,0,0
-933,The Joker,Steve Miller Band,album rock,1973,83,45,60,-10,21,80,265,37,4,75,1,0,0,0,0,0,0,0,0,0
-935,I'll Have To Say I Love You In A Song,Jim Croce,adult standards,1973,134,51,51,-14,11,70,152,78,3,53,0,0,1,0,0,0,0,0,0,0
-938,Woman from Tokyo,Deep Purple,album rock,1973,127,54,58,-13,12,42,349,14,4,37,1,0,0,0,0,0,0,0,0,0
-943,Killer Queen - 2011 Mix,Queen,glam rock,1974,117,65,54,-6,14,61,180,38,6,67,1,0,0,0,0,0,0,0,0,0
-946,Annie's Song,John Denver,adult standards,1974,146,31,30,-11,37,46,181,87,3,69,0,0,1,0,0,0,0,0,0,0
-954,Thank God I'm a Country Boy,John Denver,adult standards,1974,106,54,76,-10,6,96,193,79,5,64,0,0,1,0,0,0,0,0,0,0
-957,Hide In Your Shell,Supertramp,album rock,1974,112,36,48,-13,30,32,410,47,4,43,1,0,0,0,0,0,0,0,0,0
-965,Love Of My Life - Remastered 2011,Queen,glam rock,1975,79,18,33,-12,12,26,217,94,3,62,1,0,0,0,0,0,0,0,0,0
-967,Born to Run,Bruce Springsteen,classic rock,1975,146,94,27,-4,12,61,270,1,10,73,1,0,0,0,0,0,0,0,0,0
-973,Thunder Road,Bruce Springsteen,classic rock,1975,141,76,37,-6,53,66,289,62,4,66,1,0,0,0,0,0,0,0,0,0
-974,I'm Not In Love,10cc,album rock,1975,134,52,40,-16,28,16,367,69,6,70,1,0,0,0,0,0,0,0,0,0
-976,Lyin' Eyes - 2013 Remaster,Eagles,album rock,1975,133,67,67,-10,16,87,382,20,2,65,1,0,0,0,0,0,0,0,0,0
-979,Love Hurts,Nazareth,album rock,1975,80,33,49,-12,33,14,233,1,3,58,1,0,0,0,0,0,0,0,0,0
-982,39 - 2011 Mix,Queen,glam rock,1975,102,58,52,-10,11,34,211,3,3,52,1,0,0,0,0,0,0,0,0,0
-983,Calypso,John Denver,adult standards,1975,180,43,22,-9,12,50,216,82,3,54,0,0,1,0,0,0,0,0,0,0
-996,Show Me The Way,Peter Frampton,album rock,1975,130,73,70,-8,10,64,243,43,3,66,1,0,0,0,0,0,0,0,0,0
-997,Meeting Across the River,Bruce Springsteen,classic rock,1975,105,29,46,-10,18,26,197,82,3,43,1,0,0,0,0,0,0,0,0,0
-1001,Somebody To Love - 2011 Mix,Queen,glam rock,1976,112,69,50,-7,22,36,296,19,6,70,1,0,0,0,0,0,0,0,0,0
-1005,More Than a Feeling,Boston,album rock,1976,109,68,38,-8,5,29,285,0,3,78,1,0,0,0,0,0,0,0,0,0
-1013,Fool To Cry - Remastered 2009,The Rolling Stones,album rock,1976,68,45,44,-7,11,24,305,89,4,55,1,0,0,0,0,0,0,0,0,0
-1016,Golden Years - 2016 Remaster,David Bowie,album rock,1976,108,70,68,-10,11,93,243,32,4,60,1,0,0,0,0,0,0,0,0,0
-1032,Paradise By the Dashboard Light,Meat Loaf,album rock,1977,173,87,33,-8,46,49,508,21,12,67,1,0,0,0,0,0,0,0,0,0
-1036,Whole Lotta Rosie,AC/DC,album rock,1977,159,84,29,-4,10,42,334,0,8,65,1,0,0,0,0,0,0,0,0,0
-1042,Worn Down Piano,The Mark & Clark Band,classic rock,1977,112,71,37,-10,13,32,488,10,6,32,1,0,0,0,0,0,0,0,0,0
-1048,Lust For Life,Iggy Pop,alternative rock,1977,104,97,39,-6,10,69,314,3,4,68,1,0,0,0,0,0,0,0,0,0
-1050,Stayin' Alive,Bee Gees,adult standards,1977,104,54,71,-20,9,64,93,11,4,60,0,0,1,0,0,0,0,0,0,0
-1054,Let There Be Rock,AC/DC,album rock,1977,91,73,49,-6,8,43,366,0,9,62,1,0,0,0,0,0,0,0,0,0
-1065,Cocaine,Eric Clapton,album rock,1977,105,50,70,-13,32,68,222,6,3,68,1,0,0,0,0,0,0,0,0,0
-1071,I Want You to Want Me,Cheap Trick,album rock,1977,93,46,81,-13,15,74,191,78,3,70,1,0,0,0,0,0,0,0,0,0
-1075,Spanish Stroll,Mink DeVille,dutch rock,1977,129,45,75,-15,12,95,220,42,6,47,1,0,0,0,0,0,0,0,0,0
-1081,You Make Loving Fun - 2004 Remaster,Fleetwood Mac,album rock,1977,127,60,62,-9,10,86,217,1,3,58,1,0,0,0,0,0,0,0,0,0
-1083,Don't Stop Me Now - 2011 Mix,Queen,glam rock,1978,156,87,56,-5,77,60,209,5,16,76,1,0,0,0,0,0,0,0,0,0
-1090,Badlands,Bruce Springsteen,classic rock,1978,123,78,61,-8,28,85,242,9,5,58,1,0,0,0,0,0,0,0,0,0
-1094,Runnin' with the Devil - 2015 Remaster,Van Halen,album rock,1978,96,90,47,-6,34,42,215,15,6,70,1,0,0,0,0,0,0,0,0,0
-1104,Still Believe,Herman Brood & His Wild Romance,dutch indie,1978,95,85,60,-8,63,64,191,1,3,38,0,0,0,0,1,0,0,0,0,0
-1112,Water of Love,Dire Straits,album rock,1978,121,57,80,-13,11,96,327,45,3,41,1,0,0,0,0,0,0,0,0,0
-1114,Highway to Hell,AC/DC,album rock,1979,116,91,57,-5,16,42,208,6,13,83,1,0,0,0,0,0,0,0,0,0
-1116,The Rose,Bette Midler,adult standards,1979,134,23,35,-10,38,18,221,90,3,67,0,0,1,0,0,0,0,0,0,0
-1125,How Deep Is Your Love,Bee Gees,adult standards,1979,105,36,63,-9,13,67,245,11,3,77,0,0,1,0,0,0,0,0,0,0
-1127,Take The Long Way Home - 2010 Remastered,Supertramp,album rock,1979,77,70,41,-9,11,37,309,22,3,64,1,0,0,0,0,0,0,0,0,0
-1128,Breakfast In America - Remastered,Supertramp,album rock,1979,75,66,53,-6,7,76,159,43,3,70,1,0,0,0,0,0,0,0,0,0
-1131,Boys Don't Cry - Single Version,The Cure,dance rock,1979,169,84,47,-6,11,69,158,0,6,63,1,0,0,0,0,0,0,0,0,0
-1133,September Morn,Neil Diamond,adult standards,1979,129,23,42,-17,22,20,232,63,4,59,0,0,1,0,0,0,0,0,0,0
-1134,MacArthur Park - Single Version,Donna Summer,dance pop,1979,131,67,58,-12,5,45,235,8,4,52,0,1,0,0,0,0,0,0,0,0
-1141,Tragedy,Bee Gees,adult standards,1979,118,53,67,-11,30,81,303,9,3,64,0,0,1,0,0,0,0,0,0,0
-1146,Weekend Love,Golden Earring,album rock,1979,167,74,49,-6,11,46,255,28,4,44,1,0,0,0,0,0,0,0,0,0
-1148,Rock with You - Single Version,Michael Jackson,pop,1979,114,54,81,-13,16,85,221,18,4,73,0,1,0,0,0,0,0,0,0,0
-1149,Weekend,Earth & Fire,classic uk pop,1979,122,57,87,-11,13,56,215,37,4,49,0,1,0,0,0,0,0,0,0,0
-1151,We Belong to the Night,Ellen Foley,pop,1979,101,75,36,-9,23,42,321,0,4,40,0,1,0,0,0,0,0,0,0,0
-1153,The River,Bruce Springsteen,classic rock,1980,117,54,59,-11,31,59,302,18,3,66,1,0,0,0,0,0,0,0,0,0
-1157,Another One Bites The Dust - Remastered 2011,Queen,glam rock,1980,110,53,93,-6,16,76,215,11,16,74,1,0,0,0,0,0,0,0,0,0
-1158,Back In Black,AC/DC,album rock,1980,188,70,31,-6,8,76,255,1,5,83,1,0,0,0,0,0,0,0,0,0
-1168,So Long,Fischer-Z,dutch rock,1980,127,38,56,-15,5,89,303,1,4,49,1,0,0,0,0,0,0,0,0,0
-1171,Ashes to Ashes - 2017 Remaster,David Bowie,album rock,1980,120,74,71,-11,26,87,266,27,5,62,1,0,0,0,0,0,0,0,0,0
-1177,Save Me - Remastered 2011,Queen,glam rock,1980,82,45,51,-7,13,33,230,36,3,51,1,0,0,0,0,0,0,0,0,0
-1187,Enola Gay - Remastered,Orchestral Manoeuvres In The Dark,art rock,1980,143,76,56,-7,8,93,214,0,3,65,1,0,0,0,0,0,0,0,0,0
-1192,Don't Stop Believin',Journey,album rock,1981,119,75,50,-9,45,51,251,13,4,80,1,0,0,0,0,0,0,0,0,0
-1194,Golden Brown,The Stranglers,art rock,1981,94,38,56,-15,14,60,207,14,3,67,1,0,0,0,0,0,0,0,0,0
-1196,Start Me Up - Remastered,The Rolling Stones,album rock,1981,122,93,63,-4,9,97,213,4,4,76,1,0,0,0,0,0,0,0,0,0
-1198,Waiting On A Friend - Remastered 2009,The Rolling Stones,album rock,1981,117,79,61,-6,57,91,274,16,3,58,1,0,0,0,0,0,0,0,0,0
-1199,Tainted Love,Soft Cell,dance rock,1981,145,51,52,-8,29,65,154,48,4,53,1,0,0,0,0,0,0,0,0,0
-1200,Memory,Barbra Streisand,adult standards,1981,76,24,18,-15,11,12,235,42,4,56,0,0,1,0,0,0,0,0,0,0
-1201,Everytime I Think of You - 2000 Remaster,The Babys,album rock,1981,121,73,40,-6,20,49,243,32,4,35,1,0,0,0,0,0,0,0,0,0
-1210,Billie Jean,Michael Jackson,pop,1982,117,65,92,-3,4,85,294,2,4,81,0,1,0,0,0,0,0,0,0,0
-1211,Run to the Hills - 2015 Remaster,Iron Maiden,album rock,1982,174,94,25,-5,16,46,234,3,7,60,1,0,0,0,0,0,0,0,0,0
-1216,Bloedend Hart,De Dijk,dutch indie,1982,115,60,62,-8,12,58,228,14,4,24,0,0,0,0,1,0,0,0,0,0
-1217,Belgie ... (Is Er Leven Op Pluto ...),Het Goede Doel,dutch pop,1982,141,66,58,-14,7,66,361,1,4,52,0,1,0,0,0,0,0,0,0,0
-1228,Vriendschap,Het Goede Doel,dutch pop,1982,170,35,56,-14,20,72,247,43,3,46,0,1,0,0,0,0,0,0,0,0
-1229,Human Nature,Michael Jackson,pop,1982,93,51,62,-10,26,69,246,54,3,65,0,1,0,0,0,0,0,0,0,0
-1231,Should I Stay or Should I Go - Remastered,The Clash,classic rock,1982,113,83,74,-6,38,82,189,8,12,79,1,0,0,0,0,0,0,0,0,0
-1233,Wanna Be Startin' Somethin',Michael Jackson,pop,1982,122,92,85,-4,6,90,362,2,4,64,0,1,0,0,0,0,0,0,0,0
-1242,I'm Still Standing,Elton John,glam rock,1983,177,90,50,-7,14,77,183,36,18,79,1,0,0,0,0,0,0,0,0,0
-1249,Message To My Girl,Split Enz,australian alternative rock,1983,105,40,61,-15,5,71,244,10,3,33,1,0,0,0,0,0,0,0,0,0
-1254,Nescio,Nits,dutch indie,1983,127,52,55,-13,11,60,287,34,3,40,0,0,0,0,1,0,0,0,0,0
-1256,Home by the Sea - 2007 Remaster,Genesis,album rock,1983,129,72,60,-8,8,56,308,50,4,43,1,0,0,0,0,0,0,0,0,0
-1276,Fade To Black (Remastered),Metallica,alternative metal,1984,113,93,26,-7,11,28,417,0,11,62,0,0,0,1,0,0,0,0,0,0
-1282,Vienna,Ultravox,art rock,1984,81,61,58,-10,11,46,278,16,6,53,1,0,0,0,0,0,0,0,0,0
-1283,My Hometown,Bruce Springsteen,classic rock,1984,117,34,65,-12,7,39,280,49,4,58,1,0,0,0,0,0,0,0,0,0
-1290,Tinseltown in the Rain,The Blue Nile,art rock,1984,118,82,78,-7,8,91,358,6,3,55,1,0,0,0,0,0,0,0,0,0
-1294,Smalltown Boy,Bronski Beat,dance rock,1984,135,58,69,-11,12,94,302,29,3,71,1,0,0,0,0,0,0,0,0,0
-1299,You'll Never Walk Alone,Lee Towers,dutch pop,1984,79,27,34,-16,26,14,210,61,3,44,0,1,0,0,0,0,0,0,0,0
-1300,Run To You,Bryan Adams,album rock,1984,127,81,56,-6,29,64,233,1,3,65,1,0,0,0,0,0,0,0,0,0
-1303,Nightporter,Japan,art pop,1984,110,8,52,-20,10,10,408,75,3,41,0,1,0,0,0,0,0,0,0,0
-1308,That Was Yesterday,Foreigner,album rock,1984,115,68,43,-7,21,51,229,5,3,54,1,0,0,0,0,0,0,0,0,0
-1314,Kronenburg Park,Frank Boeijen Groep,dutch cabaret,1985,90,55,50,-13,10,45,244,45,3,53,0,0,0,0,0,1,0,0,0,0
-1327,Dancing in the Street - 2002 Remaster,David Bowie,album rock,1985,131,82,60,-14,13,74,205,12,4,57,1,0,0,0,0,0,0,0,0,0
-1333,So Far Away,Dire Straits,album rock,1985,114,46,69,-12,6,70,312,25,3,50,1,0,0,0,0,0,0,0,0,0
-1337,Greatest Love of All,Whitney Houston,dance pop,1985,131,31,50,-16,12,25,291,48,3,66,0,1,0,0,0,0,0,0,0,0
-1346,Angel Of Death,Slayer,alternative metal,1986,90,100,28,-4,15,10,291,0,16,57,0,0,0,1,0,0,0,0,0,0
-1347,Livin' On A Prayer,Bon Jovi,glam metal,1986,123,89,53,-4,29,80,249,8,3,83,0,0,0,1,0,0,0,0,0,0
-1354,I Want You,Elvis Costello & The Attractions,art rock,1986,123,13,50,-18,36,21,401,35,8,51,1,0,0,0,0,0,0,0,0,0
-1355,You Can Call Me Al,Paul Simon,classic rock,1986,128,76,78,-8,8,82,280,18,5,75,1,0,0,0,0,0,0,0,0,0
-1359,There Is a Light That Never Goes Out - 2011 Remaster,The Smiths,dance rock,1986,136,77,52,-6,14,88,245,4,3,73,1,0,0,0,0,0,0,0,0,0
-1365,Friends Will Be Friends - Remastered 2011,Queen,glam rock,1986,75,53,44,-8,34,35,247,4,3,50,1,0,0,0,0,0,0,0,0,0
-1373,Living in Another World - 1997 Remaster,Talk Talk,art rock,1986,111,86,56,-8,23,94,418,0,3,53,1,0,0,0,0,0,0,0,0,0
-1374,"Fire - Live at the Winterland, San Francisco, CA - December 1978",Bruce Springsteen,classic rock,1986,120,32,43,-21,98,52,193,20,17,41,1,0,0,0,0,0,0,0,0,0
-1380,Why Can't This Be Love,Van Halen,album rock,1986,88,63,53,-13,8,75,228,6,5,65,1,0,0,0,0,0,0,0,0,0
-1382,Fight For Your Right,Beastie Boys,alternative rock,1986,134,86,50,-6,8,42,209,1,7,68,1,0,0,0,0,0,0,0,0,0
-1384,Live to Tell,Madonna,dance pop,1986,110,31,67,-14,11,27,353,41,3,56,0,1,0,0,0,0,0,0,0,0
-1386,Invisible Touch - 2007 Remaster,Genesis,album rock,1986,131,88,66,-6,7,84,210,34,3,60,1,0,0,0,0,0,0,0,0,0
-1400,Everywhere - 2017 Remaster,Fleetwood Mac,album rock,1987,115,49,73,-11,9,73,227,26,3,78,1,0,0,0,0,0,0,0,0,0
-1402,Alone,Heart,album rock,1987,175,45,42,-13,10,17,219,64,4,73,1,0,0,0,0,0,0,0,0,0
-1414,Suzanne,Herman van Veen,dutch pop,1987,129,16,63,-21,12,18,239,93,3,43,0,1,0,0,0,0,0,0,0,0
-1415,The Way You Make Me Feel - 2012 Remaster,Michael Jackson,pop,1987,114,85,88,-5,14,54,298,5,15,72,0,1,0,0,0,0,0,0,0,0
-1417,Bad - 2012 Remaster,Michael Jackson,pop,1987,114,89,79,-4,7,39,247,0,4,68,0,1,0,0,0,0,0,0,0,0
-1422,Lessons In Love,Level 42,art rock,1987,113,84,71,-8,30,86,246,16,4,62,1,0,0,0,0,0,0,0,0,0
-1427,It's The End Of The World As We Know It (And I Feel Fine),R.E.M.,alternative rock,1987,206,89,38,-9,3,80,247,3,4,67,1,0,0,0,0,0,0,0,0,0
-1430,You Win Again,Bee Gees,adult standards,1987,169,83,55,-11,22,91,241,9,3,63,0,0,1,0,0,0,0,0,0,0
-1431,Liberian Girl - 2012 Remastered Version,Michael Jackson,pop,1987,105,55,75,-7,13,45,233,46,10,59,0,1,0,0,0,0,0,0,0,0
-1436,Sara,Fleetwood Mac,album rock,1988,127,39,74,-17,9,59,382,38,3,56,1,0,0,0,0,0,0,0,0,0
-1438,Can I Play with Madness - 2015 Remaster,Iron Maiden,album rock,1988,141,98,31,-3,26,63,211,9,10,42,1,0,0,0,0,0,0,0,0,0
-1441,Maid Of Orleans,Orchestral Manoeuvres In The Dark,art rock,1988,110,53,52,-14,5,35,252,7,3,34,1,0,0,0,0,0,0,0,0,0
-1448,When Love Comes To Town,U2,irish rock,1988,116,67,65,-11,13,59,254,5,4,50,1,0,0,0,0,0,0,0,0,0
-1450,Pamela,TOTO,album rock,1988,98,41,58,-16,6,53,310,13,3,53,1,0,0,0,0,0,0,0,0,0
-1454,Living Years,Mike & The Mechanics,album rock,1988,98,42,52,-13,7,31,330,58,3,55,1,0,0,0,0,0,0,0,0,0
-1458,Angel Of Harlem,U2,irish rock,1988,103,69,52,-11,11,93,229,10,3,59,1,0,0,0,0,0,0,0,0,0
-1459,Handle With Care,Traveling Wilburys,album rock,1988,115,77,68,-6,25,71,200,11,3,63,1,0,0,0,0,0,0,0,0,0
-1462,Twist in My Sobriety,Tanita Tikaram,new wave pop,1988,115,56,78,-11,7,94,292,7,3,46,0,1,0,0,0,0,0,0,0,0
-1465,Niemand In De Stad,De Dijk,dutch indie,1989,90,41,63,-13,31,70,291,6,3,41,0,0,0,0,1,0,0,0,0,0
-1466,Rockin' in the Free World,Neil Young,album rock,1989,132,88,49,-5,37,52,282,0,3,65,1,0,0,0,0,0,0,0,0,0
-1467,Poison,Alice Cooper,album rock,1989,119,91,28,-6,18,26,270,3,11,70,1,0,0,0,0,0,0,0,0,0
-1468,I Want It All - Remastered 2011,Queen,glam rock,1989,92,84,41,-6,37,39,242,3,5,55,1,0,0,0,0,0,0,0,0,0
-1479,Woman In Chains,Tears For Fears,art rock,1989,160,61,43,-8,6,37,391,2,3,66,1,0,0,0,0,0,0,0,0,0
-1496,Love Shack,The B-52's,art rock,1989,134,82,72,-6,85,87,322,3,5,69,1,0,0,0,0,0,0,0,0,0
-1505,Hunger Strike,Temple Of The Dog,alternative metal,1990,138,57,37,-11,9,30,246,2,3,59,0,0,0,1,0,0,0,0,0,0
-1506,Candy,Iggy Pop,alternative rock,1990,144,59,62,-11,5,65,253,4,3,60,1,0,0,0,0,0,0,0,0,0
-1507,Send Me An Angel,Scorpions,album rock,1990,81,42,15,-12,21,17,273,43,3,69,1,0,0,0,0,0,0,0,0,0
-1520,Smells Like Teen Spirit,Nirvana,alternative rock,1991,117,91,50,-5,11,72,302,0,6,74,1,0,0,0,0,0,0,0,0,0
-1521,Innuendo - Remastered 2011,Queen,glam rock,1991,73,73,21,-6,30,17,393,18,6,49,1,0,0,0,0,0,0,0,0,0
-1523,Enter Sandman,Metallica,alternative metal,1991,123,82,58,-9,6,64,332,0,3,74,0,0,0,1,0,0,0,0,0,0
-1525,Under the Bridge,Red Hot Chili Peppers,alternative rock,1991,85,35,56,-13,14,46,264,6,5,81,1,0,0,0,0,0,0,0,0,0
-1526,Deurdonderen,Normaal,dutch rock,1991,175,79,46,-10,11,86,234,1,8,49,1,0,0,0,0,0,0,0,0,0
-1541,Year of the Cat - 2001 Remaster,Al Stewart,album rock,1991,117,61,53,-10,12,53,401,1,3,61,1,0,0,0,0,0,0,0,0,0
-1545,You,Ten Sharp,pop,1991,174,90,41,-8,19,67,273,43,3,61,0,1,0,0,0,0,0,0,0,0
-1548,On Every Street,Dire Straits,album rock,1991,132,27,32,-11,17,15,302,58,4,56,1,0,0,0,0,0,0,0,0,0
-1549,Give It Away,Red Hot Chili Peppers,alternative rock,1991,92,94,67,-10,15,78,283,0,5,73,1,0,0,0,0,0,0,0,0,0
-1553,Live And Let Die,Guns N' Roses,glam metal,1991,153,78,26,-9,12,26,183,1,6,68,0,0,0,1,0,0,0,0,0,0
-1561,I Can't Dance - 2007 Remaster,Genesis,album rock,1991,108,53,91,-9,5,90,241,50,5,54,1,0,0,0,0,0,0,0,0,0
-1562,No Son of Mine - 2007 Remaster,Genesis,album rock,1991,104,60,66,-9,10,26,399,13,3,39,1,0,0,0,0,0,0,0,0,0
-1564,Love of the Common People,Paul Young,album rock,1991,91,61,74,-11,6,89,221,9,8,55,1,0,0,0,0,0,0,0,0,0
-1575,Nightswimming,R.E.M.,alternative rock,1992,114,39,57,-11,10,57,258,80,3,62,1,0,0,0,0,0,0,0,0,0
-1582,What's Up?,4 Non Blondes,new wave pop,1992,134,56,56,-10,11,45,296,16,3,78,0,1,0,0,0,0,0,0,0,0
-1585,Eloise,Barry Ryan,bubblegum pop,1992,131,59,43,-12,36,46,345,22,3,45,0,1,0,0,0,0,0,0,0,0
-1591,Human Touch,Bruce Springsteen,classic rock,1992,115,52,65,-14,10,45,389,0,3,58,1,0,0,0,0,0,0,0,0,0
-1596,I Have Nothing,Whitney Houston,dance pop,1992,153,40,54,-10,16,24,289,58,4,73,0,1,0,0,0,0,0,0,0,0
-1601,Keep The Faith,Bon Jovi,glam metal,1992,118,97,57,-4,8,57,347,0,5,58,0,0,0,1,0,0,0,0,0,0
-1602,No Rain,Blind Melon,alternative metal,1992,148,48,39,-9,26,57,217,62,3,73,0,0,0,1,0,0,0,0,0,0
-1623,Rearviewmirror (Remastered),Pearl Jam,alternative rock,1993,159,96,37,-5,35,44,283,0,7,58,1,0,0,0,0,0,0,0,0,0
-1626,Rape Me,Nirvana,alternative rock,1993,112,75,42,-11,7,23,170,1,5,64,1,0,0,0,0,0,0,0,0,0
-1633,Oude Maasweg,The Amazing Stroopwafels,dutch rock,1994,90,26,75,-15,12,13,206,70,4,45,1,0,0,0,0,0,0,0,0,0
-1643,I Alone,Live,alternative metal,1994,90,82,40,-7,37,10,231,0,5,62,0,0,0,1,0,0,0,0,0,0
-1646,Glory Box,Portishead,art pop,1994,120,43,51,-10,6,21,309,18,4,67,0,1,0,0,0,0,0,0,0,0
-1648,Ode To My Family,The Cranberries,irish rock,1994,94,45,36,-10,28,14,271,6,2,69,1,0,0,0,0,0,0,0,0,0
-1650,When I Come Around,Green Day,modern rock,1994,98,91,53,-4,23,81,178,2,3,75,1,0,0,0,0,0,0,0,0,0
-1653,Annabel,Hans De Booij,dutch cabaret,1994,174,52,81,-14,10,59,213,6,30,45,0,0,0,0,0,1,0,0,0,0
-1654,Polly,Nirvana,alternative rock,1994,115,39,62,-12,91,44,196,68,4,57,1,0,0,0,0,0,0,0,0,0
-1661,Street Spirit (Fade Out),Radiohead,alternative rock,1995,138,45,49,-12,18,13,254,31,3,62,1,0,0,0,0,0,0,0,0,0
-1667,Circle Of Life,Elton John,glam rock,1995,160,61,28,-8,11,16,290,28,4,54,1,0,0,0,0,0,0,0,0,0
-1671,Lemon Tree,Fools Garden,german pop rock,1995,143,48,66,-9,12,64,191,64,4,73,1,0,0,0,0,0,0,0,0,0
-1673,Ik Leef Niet Meer Voor Jou,Marco Borsato,dutch cabaret,1995,150,82,55,-9,4,57,217,2,5,60,0,0,0,0,0,1,0,0,0,0
-1679,Too Much Love Will Kill You - 2011 Remaster,Queen,glam rock,1995,73,40,41,-8,16,21,259,58,3,49,1,0,0,0,0,0,0,0,0,0
-1680,1979 - Remastered 2012,The Smashing Pumpkins,alternative metal,1995,127,79,77,-10,5,96,266,2,3,74,0,0,0,1,0,0,0,0,0,0
-1682,You Don't Fool Me - Remastered 2011,Queen,glam rock,1995,122,83,59,-6,38,58,325,10,4,45,1,0,0,0,0,0,0,0,0,0
-1690,Bullet With Butterfly Wings - Remastered 2012,The Smashing Pumpkins,alternative metal,1995,122,72,40,-9,5,48,258,0,6,71,0,0,0,1,0,0,0,0,0,0
-1691,A Winter's Tale - 2011 Remaster,Queen,glam rock,1995,54,56,36,-6,31,14,230,18,3,29,1,0,0,0,0,0,0,0,0,0
-1703,Beautiful Noise,Neil Diamond,adult standards,1996,127,35,53,-15,15,73,193,12,3,57,0,0,1,0,0,0,0,0,0,0
-1709,Killing Me Softly With His Song,Fugees,east coast hip hop,1996,92,29,77,-17,57,51,299,3,14,74,0,0,0,0,0,0,0,0,0,1
-1716,A Long December,Counting Crows,alternative rock,1996,71,58,39,-7,22,38,295,47,3,63,1,0,0,0,0,0,0,0,0,0
-1717,Novocaine For The Soul,Eels,alternative rock,1996,169,72,41,-8,8,31,189,0,4,54,1,0,0,0,0,0,0,0,0,0
-1719,Bitter Sweet Symphony,The Verve,alternative rock,1997,171,92,36,-6,41,52,357,3,5,78,1,0,0,0,0,0,0,0,0,0
-1720,Zeg Me Dat Het Niet Zo Is,Frank Boeijen,dutch cabaret,1997,70,13,35,-14,17,29,161,85,4,48,0,0,0,0,0,1,0,0,0,0
-1721,Du hast,Rammstein,alternative metal,1997,125,92,64,-6,33,72,234,0,4,67,0,0,0,1,0,0,0,0,0,0
-1725,Op Fietse,Skik,dutch indie,1997,104,86,53,-5,24,86,291,19,3,46,0,0,0,0,1,0,0,0,0,0
-1726,Paranoid Android,Radiohead,alternative rock,1997,164,85,25,-7,5,19,387,4,6,67,1,0,0,0,0,0,0,0,0,0
-1727,Lopen Tot De Zon Komt,Acda en de Munnik,dutch cabaret,1997,100,33,43,-9,14,36,206,89,3,49,0,0,0,0,0,1,0,0,0,0
-1742,"My Heart Will Go On - Love Theme from ""Titanic""",Céline Dion,canadian pop,1997,99,28,43,-12,12,4,280,73,3,75,0,1,0,0,0,0,0,0,0,0
-1745,The Memory Remains,Metallica,alternative metal,1997,144,90,43,-4,21,60,279,0,4,51,0,0,0,1,0,0,0,0,0,0
-1750,Songbird,Eva Cassidy,adult standards,1997,153,23,38,-12,13,15,225,85,3,61,0,0,1,0,0,0,0,0,0,0
-1756,Als Ze Er Niet Is,De Dijk,dutch indie,1998,166,49,38,-12,11,21,211,24,6,50,0,0,0,0,1,0,0,0,0,0
-1759,Don't Let the Sun Go Down on Me,George Michael,dance rock,1998,135,55,44,-8,54,26,347,49,3,66,1,0,0,0,0,0,0,0,0,0
-1764,Cowboys and Angels,George Michael,dance rock,1998,128,51,57,-13,13,28,435,4,3,43,1,0,0,0,0,0,0,0,0,0
-1771,Faith,George Michael,dance rock,1998,96,50,92,-10,7,56,194,1,10,46,1,0,0,0,0,0,0,0,0,0
-1773,Niet Of Nooit Geweest,Acda en de Munnik,dutch cabaret,1998,122,51,48,-10,17,51,242,38,4,54,0,0,0,0,0,1,0,0,0,0
-1778,Non non rien n'a changé,Les Poppys,alternative pop rock,1998,84,48,50,-8,20,47,190,48,9,50,1,0,0,0,0,0,0,0,0,0
-1780,Killer / Papa Was a Rollin' Stone,George Michael,dance rock,1998,122,98,71,-7,76,58,255,3,5,51,1,0,0,0,0,0,0,0,0,0
-1782,If You Tolerate This Your Children Will Be Next,Manic Street Preachers,alternative rock,1998,96,80,22,-6,9,26,291,0,4,37,1,0,0,0,0,0,0,0,0,0
-1785,The Reflex,Duran Duran,dance rock,1998,127,90,56,-6,57,80,267,12,10,50,1,0,0,0,0,0,0,0,0,0
-1796,Kissing a Fool,George Michael,dance rock,1998,117,27,39,-14,11,17,275,17,3,56,1,0,0,0,0,0,0,0,0,0
-1798,"Slaap Zacht , Elisabeth",Acda en de Munnik,dutch cabaret,1998,174,38,44,-11,10,19,263,36,3,37,0,0,0,0,0,1,0,0,0,0
-1801,Californication,Red Hot Chili Peppers,alternative rock,1999,96,77,59,-3,13,33,330,0,3,81,1,0,0,0,0,0,0,0,0,0
-1811,The Family Tree,Venice,alternative rock,1999,127,10,34,-16,10,26,205,81,3,41,1,0,0,0,0,0,0,0,0,0
-1818,Il Volo,Zucchero,classic italian pop,1999,150,40,45,-12,6,17,332,3,3,24,0,1,0,0,0,0,0,0,0,0
-1824,Smooth (feat. Rob Thomas),Santana,blues rock,1999,116,92,61,-4,30,96,295,16,3,70,1,0,0,0,0,0,0,0,0,0
-1825,My Name Is,Eminem,detroit hip hop,1999,86,68,87,-6,9,82,268,4,32,72,0,0,0,0,0,0,0,0,0,1
-1826,Desert Rose,Sting,permanent wave,1999,112,65,58,-8,11,13,286,1,3,52,0,0,0,0,0,0,0,1,0,0
-1829,Can't Help Falling in Love,Elvis Presley,adult standards,1961,100,29,40,-14,11,34,182,94,3,78,0,0,1,0,0,0,0,0,0,0
-1840,The Sound of Silence - Acoustic Version,Simon & Garfunkel,classic rock,1964,107,22,53,-14,11,33,185,84,3,75,1,0,0,0,0,0,0,0,0,0
-1841,House Of The Rising Sun,The Animals,album rock,1964,117,58,30,-7,10,23,271,0,3,69,1,0,0,0,0,0,0,0,0,0
-1848,It's All Over Now - Mono Version,The Rolling Stones,album rock,1964,99,69,60,-11,33,76,206,2,3,46,1,0,0,0,0,0,0,0,0,0
-1856,Feeling Good,Nina Simone,adult standards,1965,79,33,40,-9,19,55,174,86,4,74,0,0,1,0,0,0,0,0,0,0
-1860,It Was A Very Good Year,Frank Sinatra,adult standards,1965,80,14,22,-15,11,13,267,86,3,62,0,0,1,0,0,0,0,0,0,0
-1864,"Paint It, Black",The Rolling Stones,album rock,1966,159,80,46,-9,40,61,202,5,9,78,1,0,0,0,0,0,0,0,0,0
-1867,Eleanor Rigby - Remastered 2009,The Beatles,british invasion,1966,138,28,58,-9,31,81,127,94,4,71,0,0,0,0,0,0,0,0,1,0
-1870,Jumpin' Jack Flash - Mono,The Rolling Stones,album rock,1966,137,90,60,-7,7,62,219,4,5,65,1,0,0,0,0,0,0,0,0,0
-1872,Sloop John B - Remastered,The Beach Boys,baroque pop,1966,126,75,57,-5,9,90,180,40,3,61,0,1,0,0,0,0,0,0,0,0
-1873,Homeward Bound,Simon & Garfunkel,classic rock,1966,93,38,49,-12,10,53,150,83,3,65,1,0,0,0,0,0,0,0,0,0
-1876,When a Man Loves a Woman,Percy Sledge,classic soul,1966,97,15,52,-20,12,21,174,13,3,66,0,0,0,0,0,0,1,0,0,0
-1878,How Can We Hang On To A Dream,Tim Hardin,classic uk pop,1966,127,18,56,-15,15,37,123,83,4,48,0,1,0,0,0,0,0,0,0,0
-1884,Nights In White Satin - Single Version / Mono Mix,The Moody Blues,album rock,1967,85,48,20,-5,7,17,269,47,3,68,1,0,0,0,0,0,0,0,0,0
-1887,Brown Eyed Girl,Van Morrison,classic rock,1967,151,58,49,-11,41,91,183,18,4,79,1,0,0,0,0,0,0,0,0,0
-1900,The Wind Cries Mary,Jimi Hendrix,album rock,1967,80,50,50,-11,20,34,201,35,5,63,1,0,0,0,0,0,0,0,0,0
-1902,Lucy In The Sky With Diamonds - Remastered 2009,The Beatles,british invasion,1967,65,33,31,-9,14,67,208,5,3,69,0,0,0,0,0,0,0,0,1,0
-1904,Ruby Tuesday,The Rolling Stones,album rock,1967,105,55,52,-11,17,52,196,83,3,63,1,0,0,0,0,0,0,0,0,0
-1921,Pastorale - Remastered,Liesbeth List,dutch rock,1968,112,52,46,-9,28,35,256,65,3,45,1,0,0,0,0,0,0,0,0,0
-1928,I Say a Little Prayer,Aretha Franklin,adult standards,1968,133,36,59,-14,6,50,217,48,4,75,0,0,1,0,0,0,0,0,0,0
-1929,(You Make Me Feel Like) A Natural Woman,Aretha Franklin,adult standards,1968,111,32,65,-9,19,28,167,21,3,69,0,0,1,0,0,0,0,0,0,0
-1933,Lea,The Cats,classic uk pop,1968,167,52,18,-8,6,42,222,39,3,48,0,1,0,0,0,0,0,0,0,0
-1934,The Weight - Remastered,The Band,album rock,1968,144,55,63,-9,10,52,274,37,5,72,1,0,0,0,0,0,0,0,0,0
-1941,Times Were When,The Cats,classic uk pop,1968,99,56,45,-9,5,61,191,24,3,43,0,1,0,0,0,0,0,0,0,0
-1950,Gimme Shelter,The Rolling Stones,album rock,1969,119,63,63,-8,17,49,271,45,3,76,1,0,0,0,0,0,0,0,0,0
-1954,Fortunate Son,Creedence Clearwater Revival,album rock,1969,133,66,64,-8,15,66,141,20,4,80,1,0,0,0,0,0,0,0,0,0
-1961,Something - Remastered 2009,The Beatles,british invasion,1969,134,34,40,-11,14,38,182,20,3,72,0,0,0,0,0,0,0,0,1,0
-1962,Albatross - 2018 Remaster,Fleetwood Mac,album rock,1969,136,6,32,-22,14,26,191,83,4,50,1,0,0,0,0,0,0,0,0,0
-1963,Just A Little Bit Of Peace In My Heart,Golden Earring,album rock,1969,95,72,27,-6,6,26,320,1,3,42,1,0,0,0,0,0,0,0,0,0
-1967,Marian,The Cats,classic uk pop,1969,80,45,39,-10,19,39,240,0,3,46,0,1,0,0,0,0,0,0,0,0
-1970,Oh Well (Pt. 1) - 2013 Remaster,Fleetwood Mac,album rock,1969,103,59,47,-10,14,22,202,20,14,41,1,0,0,0,0,0,0,0,0,0
-1972,Scarlet Ribbons,The Cats,classic uk pop,1969,101,42,48,-10,14,47,197,9,3,44,0,1,0,0,0,0,0,0,0,0
-1979,The First Time Ever I Saw Your Face,Roberta Flack,adult standards,1969,121,3,31,-22,16,14,261,73,4,64,0,0,1,0,0,0,0,0,0,0
-1980,Touch Me,The Doors,album rock,1969,109,90,43,-5,12,77,190,41,7,68,1,0,0,0,0,0,0,0,0,0
-1984,Black Magic Woman - 2018 Remaster,Fleetwood Mac,album rock,1969,129,41,46,-11,28,44,173,5,4,48,1,0,0,0,0,0,0,0,0,0
-1988,My Baby Just Cares for Me - 2013 Remastered Version,Nina Simone,adult standards,1958,119,24,75,-15,9,43,216,83,12,68,0,0,1,0,0,0,0,0,0,0
-1989,Summertime,Louis Armstrong,adult standards,1958,168,7,17,-21,14,10,298,92,3,66,0,0,1,0,0,0,0,0,0,0
-1991,Hound Dog,Elvis Presley,adult standards,1958,175,76,36,-8,76,95,136,73,6,69,0,0,1,0,0,0,0,0,0,0
-1992,Johnny B. Goode,Chuck Berry,blues rock,1959,168,80,53,-9,31,97,162,74,7,74,1,0,0,0,0,0,0,0,0,0
+Index,Beats Per Minute (BPM),Energy,Danceability,Loudness (dB),Liveness,Valence,Length (Duration),Acousticness,Speechiness,Popularity,Rock,Pop,Standards,Metal,Indie,Cabaret,Soul,Wave,Invasion,Hip-hop
+2,135,79,50,-11,17,81,207,17,7,39,1,0,0,0,0,0,0,0,0,0
+3,168,69,66,-9,7,52,341,2,17,69,0,0,0,0,0,0,0,0,0,1
+6,99,46,54,-9,14,14,247,0,2,45,1,0,0,0,0,0,0,0,0,0
+7,102,71,71,-6,13,54,257,6,3,74,0,1,0,0,0,0,0,0,0,0
+11,109,5,44,-16,11,31,162,88,4,49,0,0,1,0,0,0,0,0,0,0
+14,117,93,38,-2,81,40,639,18,10,26,1,0,0,0,0,0,0,0,0,0
+18,127,54,38,-5,9,19,276,2,3,57,1,0,0,0,0,0,0,0,0,0
+22,142,51,60,-10,11,35,218,5,4,67,1,0,0,0,0,0,0,0,0,0
+39,168,60,58,-6,48,65,263,0,5,72,0,0,0,1,0,0,0,0,0,0
+58,123,59,48,-5,18,20,218,27,5,44,0,1,0,0,0,0,0,0,0,0
+60,124,59,47,-8,28,18,236,42,3,38,1,0,0,0,0,0,0,0,0,0
+65,99,87,55,-6,17,54,234,1,3,77,0,0,0,1,0,0,0,0,0,0
+75,139,48,52,-8,9,46,247,3,3,67,1,0,0,0,0,0,0,0,0,0
+76,131,80,75,-5,42,37,281,24,5,55,0,1,0,0,0,0,0,0,0,0
+79,104,92,66,-6,61,46,229,38,17,30,0,0,0,0,0,1,0,0,0,0
+87,120,76,70,-5,13,68,210,12,6,42,0,0,0,0,1,0,0,0,0,0
+89,115,67,72,-12,5,65,231,6,4,43,1,0,0,0,0,0,0,0,0,0
+125,120,60,85,-12,19,87,433,6,4,44,0,0,1,0,0,0,0,0,0,0
+135,94,77,37,-6,9,42,248,18,7,59,0,0,0,1,0,0,0,0,0,0
+136,103,81,71,-4,7,73,257,1,3,74,0,0,0,0,0,0,1,0,0,0
+143,93,77,52,-11,6,93,181,14,6,42,1,0,0,0,0,0,0,0,0,0
+146,171,20,34,-11,11,30,197,76,3,43,0,0,0,0,1,0,0,0,0,0
+148,173,55,34,-8,12,36,280,33,4,54,0,1,0,0,0,0,0,0,0,0
+153,124,46,56,-7,10,19,245,72,3,38,0,1,0,0,0,0,0,0,0,0
+156,127,56,61,-6,4,24,297,18,3,64,0,0,0,0,0,0,0,1,0,0
+159,138,93,55,-4,9,81,189,4,4,59,1,0,0,0,0,0,0,0,0,0
+164,130,32,53,-17,97,46,281,53,8,41,0,0,0,0,0,1,0,0,0,0
+166,79,27,19,-9,13,10,263,86,4,74,0,0,0,1,0,0,0,0,0,0
+179,91,59,56,-10,23,48,284,28,3,50,1,0,0,0,0,0,0,0,0,0
+181,98,62,66,-9,7,66,256,51,3,35,0,1,0,0,0,0,0,0,0,0
+184,115,72,53,-6,11,59,324,0,3,44,1,0,0,0,0,0,0,0,0,0
+186,138,56,74,-10,8,98,170,11,4,49,0,0,0,0,0,1,0,0,0,0
+189,136,97,41,-4,11,35,218,0,5,53,1,0,0,0,0,0,0,0,0,0
+192,115,70,73,-8,6,41,252,0,3,52,0,1,0,0,0,0,0,0,0,0
+194,159,64,52,-5,17,32,272,39,2,52,1,0,0,0,0,0,0,0,0,0
+203,115,61,67,-11,11,67,181,41,3,51,0,0,0,0,0,1,0,0,0,0
+208,170,66,46,-9,33,53,274,3,6,72,1,0,0,0,0,0,0,0,0,0
+226,144,55,54,-7,13,23,239,5,2,75,0,0,0,1,0,0,0,0,0,0
+233,130,71,66,-7,7,86,122,0,9,64,1,0,0,0,0,0,0,0,0,0
+236,180,66,51,-7,12,46,228,3,4,79,0,1,0,0,0,0,0,0,0,0
+237,90,25,52,-10,14,14,222,22,3,51,0,0,0,0,1,0,0,0,0,0
+249,111,57,70,-8,11,71,236,1,3,51,0,1,0,0,0,0,0,0,0,0
+259,150,93,24,-3,97,23,185,36,8,60,1,0,0,0,0,0,0,0,0,0
+262,145,59,43,-5,30,19,227,6,3,70,0,0,0,0,0,0,0,1,0,0
+265,174,96,49,-2,46,81,277,3,39,77,0,0,0,0,0,0,0,0,0,1
+266,79,64,47,-6,15,50,260,15,3,77,0,1,0,0,0,0,0,0,0,0
+270,110,76,50,-6,9,33,287,7,3,53,1,0,0,0,0,0,0,0,0,0
+291,125,74,69,-6,8,84,197,15,3,42,1,0,0,0,0,0,0,0,0,0
+295,116,88,74,-6,42,33,317,0,4,66,0,1,0,0,0,0,0,0,0,0
+307,135,80,56,-8,9,58,245,0,6,73,1,0,0,0,0,0,0,0,0,0
+308,110,78,65,-5,22,57,137,14,3,63,0,0,0,0,0,0,0,0,1,0
+315,170,68,44,-7,9,19,295,46,3,57,1,0,0,0,0,0,0,0,0,0
+316,100,63,63,-12,4,87,245,4,7,77,0,0,1,0,0,0,0,0,0,0
+318,122,97,45,-5,10,20,217,3,11,74,1,0,0,0,0,0,0,0,0,0
+326,136,93,54,-6,36,45,246,1,5,63,1,0,0,0,0,0,0,0,0,0
+330,122,67,63,-7,28,48,298,64,3,43,1,0,0,0,0,0,0,0,0,0
+335,151,46,69,-8,11,72,242,60,5,82,0,1,0,0,0,0,0,0,0,0
+336,98,68,62,-6,8,41,190,35,2,59,1,0,0,0,0,0,0,0,0,0
+342,105,86,64,-7,87,47,250,23,7,52,1,0,0,0,0,0,0,0,0,0
+343,146,40,38,-7,10,19,256,78,3,49,0,0,0,1,0,0,0,0,0,0
+348,82,25,53,-16,12,34,197,52,3,61,0,1,0,0,0,0,0,0,0,0
+352,85,58,50,-11,14,30,279,11,3,40,0,1,0,0,0,0,0,0,0,0
+355,182,24,19,-13,11,11,226,24,3,49,0,1,0,0,0,0,0,0,0,0
+356,172,66,45,-4,8,37,236,8,3,67,1,0,0,0,0,0,0,0,0,0
+362,139,71,82,-7,61,77,223,1,18,80,0,0,0,0,0,0,0,0,0,1
+363,144,77,51,-6,17,57,210,0,4,36,0,1,0,0,0,0,0,0,0,0
+377,140,55,56,-7,17,19,273,19,3,71,0,0,0,0,0,0,0,1,0,0
+379,117,73,49,-9,16,83,236,0,9,61,1,0,0,0,0,0,0,0,0,0
+385,82,47,41,-7,10,39,210,56,3,61,0,1,0,0,0,0,0,0,0,0
+386,105,59,43,-6,24,15,330,2,3,45,0,0,0,1,0,0,0,0,0,0
+389,97,55,74,-9,6,35,328,51,3,72,1,0,0,0,0,0,0,0,0,0
+392,131,75,58,-7,18,26,308,60,3,76,0,0,0,0,0,0,0,1,0,0
+398,77,89,69,-6,3,91,182,9,3,56,0,1,0,0,0,0,0,0,0,0
+402,97,79,71,-4,20,90,221,32,11,48,0,0,0,0,0,0,0,0,0,1
+404,113,42,74,-10,10,58,259,36,3,43,0,0,0,0,1,0,0,0,0,0
+409,110,41,67,-9,3,71,214,15,6,42,1,0,0,0,0,0,0,0,0,0
+413,120,59,79,-9,7,73,206,9,8,61,0,1,0,0,0,0,0,0,0,0
+427,115,59,66,-12,31,67,204,60,3,44,0,0,1,0,0,0,0,0,0,0
+428,120,39,62,-12,12,44,249,23,3,51,1,0,0,0,0,0,0,0,0,0
+429,110,56,71,-7,12,23,223,15,6,75,0,1,0,0,0,0,0,0,0,0
+435,108,68,61,-4,13,47,242,0,3,75,0,0,0,0,0,0,1,0,0,0
+440,138,78,48,-8,8,18,319,1,5,53,0,0,0,0,0,1,0,0,0,0
+442,104,61,28,-5,10,8,403,0,3,72,1,0,0,0,0,0,0,0,0,0
+447,103,69,55,-4,8,56,161,10,3,42,0,0,0,0,1,0,0,0,0,0
+450,120,93,51,-3,14,48,264,0,4,53,0,0,0,1,0,0,0,0,0,0
+454,79,73,50,-6,31,45,200,14,3,30,0,0,0,0,1,0,0,0,0,0
+455,133,80,74,-8,19,98,239,0,4,54,0,1,0,0,0,0,0,0,0,0
+456,82,52,43,-9,22,56,216,80,7,52,0,0,0,0,0,0,0,0,0,1
+458,140,51,44,-8,13,25,245,12,3,40,0,0,0,0,0,1,0,0,0,0
+463,89,57,53,-10,13,49,182,72,6,49,0,0,0,0,1,0,0,0,0,0
+468,106,35,64,-14,7,59,233,54,3,33,0,1,0,0,0,0,0,0,0,0
+469,94,75,65,-5,60,65,267,8,9,76,0,1,0,0,0,0,0,0,0,0
+485,90,71,51,-3,33,43,175,19,3,73,1,0,0,0,0,0,0,0,0,0
+488,104,63,67,-7,9,55,248,0,3,73,0,1,0,0,0,0,0,0,0,0
+490,142,75,50,-6,35,30,197,1,4,44,0,1,0,0,0,0,0,0,0,0
+491,149,20,28,-17,13,16,809,49,3,31,1,0,0,0,0,0,0,0,0,0
+498,107,69,30,-7,27,37,315,1,5,57,1,0,0,0,0,0,0,0,0,0
+500,100,93,64,-6,9,76,190,9,15,66,1,0,0,0,0,0,0,0,0,0
+502,85,32,52,-11,12,27,212,70,3,51,0,0,0,0,0,0,1,0,0,0
+514,130,73,53,-5,8,57,205,0,3,48,0,1,0,0,0,0,0,0,0,0
+516,112,31,62,-10,12,13,241,95,3,66,0,1,0,0,0,0,0,0,0,0
+528,76,5,63,-21,10,20,301,56,4,64,0,1,0,0,0,0,0,0,0,0
+539,174,28,36,-12,38,20,174,54,4,59,0,0,0,0,0,0,0,0,0,1
+541,86,41,21,-10,8,16,306,17,4,72,0,1,0,0,0,0,0,0,0,0
+544,108,88,54,-5,3,25,282,2,3,48,1,0,0,0,0,0,0,0,0,0
+553,148,84,52,-7,20,86,213,1,6,28,0,0,0,0,1,0,0,0,0,0
+554,117,78,52,-4,11,90,236,0,4,66,0,0,0,1,0,0,0,0,0,0
+561,99,68,62,-8,16,53,240,11,3,30,0,1,0,0,0,0,0,0,0,0
+562,140,63,39,-7,11,32,373,24,3,49,0,0,0,0,0,0,1,0,0,0
+563,125,64,55,-7,22,15,268,1,3,78,0,0,0,0,0,0,0,1,0,0
+566,79,45,78,-6,18,59,282,47,3,84,0,1,0,0,0,0,0,0,0,0
+572,80,37,56,-10,9,28,182,93,4,27,0,0,0,0,1,0,0,0,0,0
+578,108,38,61,-10,10,20,259,61,5,84,0,1,0,0,0,0,0,0,0,0
+582,130,70,76,-9,4,30,268,7,4,42,0,1,0,0,0,0,0,0,0,0
+587,114,34,44,-11,10,8,266,4,3,65,0,0,0,1,0,0,0,0,0,0
+599,116,78,65,-7,10,63,203,13,4,49,0,1,0,0,0,0,0,0,0,0
+602,135,23,40,-9,11,28,222,89,4,61,0,0,0,0,0,0,0,0,0,1
+603,124,85,62,-6,24,64,215,12,3,43,0,0,0,0,1,0,0,0,0,0
+609,174,13,50,-13,10,28,256,88,6,29,0,1,0,0,0,0,0,0,0,0
+621,83,41,27,-8,12,32,255,29,3,21,0,0,0,0,1,0,0,0,0,0
+623,90,74,49,-5,30,36,259,26,4,78,0,0,0,0,0,0,0,1,0,0
+644,142,92,56,-4,28,59,235,0,3,54,0,1,0,0,0,0,0,0,0,0
+646,147,68,40,-6,68,60,212,18,3,47,1,0,0,0,0,0,0,0,0,0
+647,134,41,46,-8,10,9,227,50,3,63,0,1,0,0,0,0,0,0,0,0
+654,144,59,38,-6,9,27,291,35,5,73,0,0,0,0,0,0,1,0,0,0
+655,163,79,39,-6,40,34,204,0,5,53,0,1,0,0,0,0,0,0,0,0
+676,90,40,73,-9,11,55,196,8,3,81,1,0,0,0,0,0,0,0,0,0
+684,95,45,60,-6,11,17,263,16,2,87,0,1,0,0,0,0,0,0,0,0
+692,135,83,46,-5,14,47,261,2,10,79,0,1,0,0,0,0,0,0,0,0
+697,135,66,67,-5,12,56,201,4,3,82,1,0,0,0,0,0,0,0,0,0
+699,108,61,57,-9,10,69,185,56,4,41,1,0,0,0,0,0,0,0,0,0
+713,147,89,55,-3,89,72,233,0,3,67,1,0,0,0,0,0,0,0,0,0
+716,116,83,52,-4,8,48,331,0,4,62,0,1,0,0,0,0,0,0,0,0
+717,103,31,40,-8,12,31,262,92,3,40,0,0,1,0,0,0,0,0,0,0
+718,114,32,50,-13,24,30,249,10,3,50,1,0,0,0,0,0,0,0,0,0
+720,90,30,64,-10,10,44,238,62,3,36,0,0,0,0,1,0,0,0,0,0
+722,96,62,41,-6,40,23,250,9,7,68,0,1,0,0,0,0,0,0,0,0
+725,171,75,56,-8,15,35,240,27,31,69,0,0,0,0,0,0,1,0,0,0
+728,91,70,54,-6,10,56,221,5,3,30,0,1,0,0,0,0,0,0,0,0
+729,174,44,64,-14,9,15,154,13,20,68,0,1,0,0,0,0,0,0,0,0
+736,128,54,33,-9,21,82,146,57,4,29,0,0,0,0,1,0,0,0,0,0
+742,131,41,55,-11,24,86,152,46,5,23,0,0,0,0,1,0,0,0,0,0
+751,198,61,30,-7,15,33,251,6,3,32,0,1,0,0,0,0,0,0,0,0
+763,100,57,74,-8,10,57,209,51,4,52,0,0,0,0,0,0,0,0,0,1
+778,140,71,62,-7,13,49,211,6,7,82,0,1,0,0,0,0,0,0,0,0
+782,111,75,67,-9,29,69,261,8,3,73,1,0,0,0,0,0,0,0,0,0
+791,121,76,61,-9,73,63,218,14,7,50,1,0,0,0,0,0,0,0,0,0
+792,120,90,52,-5,10,24,322,0,4,72,0,0,0,1,0,0,0,0,0,0
+796,142,66,36,-8,6,38,237,10,3,32,1,0,0,0,0,0,0,0,0,0
+799,113,17,68,-9,10,24,260,84,3,28,0,1,0,0,0,0,0,0,0,0
+801,143,40,44,-8,11,41,243,63,3,79,0,0,0,0,0,0,0,0,1,0
+806,93,49,44,-14,16,63,309,70,6,72,1,0,0,0,0,0,0,0,0,0
+809,92,36,41,-13,8,27,285,83,3,63,1,0,0,0,0,0,0,0,0,0
+810,113,93,56,-10,35,62,146,1,6,77,1,0,0,0,0,0,0,0,0,0
+811,124,80,60,-7,7,62,147,4,3,66,1,0,0,0,0,0,0,0,0,0
+812,140,21,59,-15,12,38,180,90,5,68,1,0,0,0,0,0,0,0,0,0
+818,76,66,22,-10,47,32,344,2,5,50,1,0,0,0,0,0,0,0,0,0
+830,147,91,60,-7,8,72,290,31,6,64,0,0,1,0,0,0,0,0,0,0
+833,86,52,61,-10,12,80,206,37,3,72,1,0,0,0,0,0,0,0,0,0
+835,89,25,53,-15,12,24,276,71,3,60,0,0,1,0,0,0,0,0,0,0
+836,139,97,54,-6,12,93,166,42,9,67,0,0,0,0,0,0,1,0,0,0
+840,82,34,34,-12,12,20,483,58,3,79,1,0,0,0,0,0,0,0,0,0
+843,134,32,28,-17,11,14,1412,37,4,58,1,0,0,0,0,0,0,0,0,0
+849,80,42,48,-11,12,51,125,46,12,76,0,0,0,0,0,0,1,0,0,0
+850,140,39,43,-7,8,16,342,69,3,72,1,0,0,0,0,0,0,0,0,0
+853,122,57,39,-13,9,40,502,39,5,44,1,0,0,0,0,0,0,0,0,0
+858,104,51,38,-15,54,40,355,1,5,55,1,0,0,0,0,0,0,0,0,0
+859,175,59,23,-9,13,55,204,31,4,35,0,0,1,0,0,0,0,0,0,0
+861,169,26,47,-11,12,46,309,88,3,68,0,0,1,0,0,0,0,0,0,0
+865,87,11,70,-15,7,52,108,94,55,58,1,0,0,0,0,0,0,0,0,0
+867,92,28,70,-15,8,45,269,68,3,68,0,0,1,0,0,0,0,0,0,0
+874,131,50,42,-13,20,66,254,48,3,39,1,0,0,0,0,0,0,0,0,0
+875,147,59,56,-7,4,97,198,6,3,67,1,0,0,0,0,0,0,0,0,0
+876,170,89,32,-7,9,87,221,0,4,67,1,0,0,0,0,0,0,0,0,0
+877,81,86,44,-8,24,75,295,40,9,73,1,0,0,0,0,0,0,0,0,0
+884,145,27,40,-12,10,9,225,74,3,69,1,0,0,0,0,0,0,0,0,0
+893,136,16,44,-11,11,29,167,91,3,53,0,1,0,0,0,0,0,0,0,0
+898,128,69,56,-11,20,75,345,53,4,63,1,0,0,0,0,0,0,0,0,0
+899,106,60,65,-13,7,91,227,22,3,75,1,0,0,0,0,0,0,0,0,0
+905,81,60,22,-11,41,25,1121,27,6,47,1,0,0,0,0,0,0,0,0,0
+911,125,54,68,-10,6,96,357,22,3,69,1,0,0,0,0,0,0,0,0,0
+916,120,48,36,-12,18,36,414,52,8,70,1,0,0,0,0,0,0,0,0,0
+921,81,64,55,-10,20,61,230,0,22,74,1,0,0,0,0,0,0,0,0,0
+923,73,30,36,-15,63,13,469,86,3,65,1,0,0,0,0,0,0,0,0,0
+925,125,60,48,-9,11,67,313,8,3,71,1,0,0,0,0,0,0,0,0,0
+933,83,45,60,-10,21,80,265,37,4,75,1,0,0,0,0,0,0,0,0,0
+935,134,51,51,-14,11,70,152,78,3,53,0,0,1,0,0,0,0,0,0,0
+938,127,54,58,-13,12,42,349,14,4,37,1,0,0,0,0,0,0,0,0,0
+943,117,65,54,-6,14,61,180,38,6,67,1,0,0,0,0,0,0,0,0,0
+946,146,31,30,-11,37,46,181,87,3,69,0,0,1,0,0,0,0,0,0,0
+954,106,54,76,-10,6,96,193,79,5,64,0,0,1,0,0,0,0,0,0,0
+957,112,36,48,-13,30,32,410,47,4,43,1,0,0,0,0,0,0,0,0,0
+965,79,18,33,-12,12,26,217,94,3,62,1,0,0,0,0,0,0,0,0,0
+967,146,94,27,-4,12,61,270,1,10,73,1,0,0,0,0,0,0,0,0,0
+973,141,76,37,-6,53,66,289,62,4,66,1,0,0,0,0,0,0,0,0,0
+974,134,52,40,-16,28,16,367,69,6,70,1,0,0,0,0,0,0,0,0,0
+976,133,67,67,-10,16,87,382,20,2,65,1,0,0,0,0,0,0,0,0,0
+979,80,33,49,-12,33,14,233,1,3,58,1,0,0,0,0,0,0,0,0,0
+982,102,58,52,-10,11,34,211,3,3,52,1,0,0,0,0,0,0,0,0,0
+983,180,43,22,-9,12,50,216,82,3,54,0,0,1,0,0,0,0,0,0,0
+996,130,73,70,-8,10,64,243,43,3,66,1,0,0,0,0,0,0,0,0,0
+997,105,29,46,-10,18,26,197,82,3,43,1,0,0,0,0,0,0,0,0,0
+1001,112,69,50,-7,22,36,296,19,6,70,1,0,0,0,0,0,0,0,0,0
+1005,109,68,38,-8,5,29,285,0,3,78,1,0,0,0,0,0,0,0,0,0
+1013,68,45,44,-7,11,24,305,89,4,55,1,0,0,0,0,0,0,0,0,0
+1016,108,70,68,-10,11,93,243,32,4,60,1,0,0,0,0,0,0,0,0,0
+1032,173,87,33,-8,46,49,508,21,12,67,1,0,0,0,0,0,0,0,0,0
+1036,159,84,29,-4,10,42,334,0,8,65,1,0,0,0,0,0,0,0,0,0
+1042,112,71,37,-10,13,32,488,10,6,32,1,0,0,0,0,0,0,0,0,0
+1048,104,97,39,-6,10,69,314,3,4,68,1,0,0,0,0,0,0,0,0,0
+1050,104,54,71,-20,9,64,93,11,4,60,0,0,1,0,0,0,0,0,0,0
+1054,91,73,49,-6,8,43,366,0,9,62,1,0,0,0,0,0,0,0,0,0
+1065,105,50,70,-13,32,68,222,6,3,68,1,0,0,0,0,0,0,0,0,0
+1071,93,46,81,-13,15,74,191,78,3,70,1,0,0,0,0,0,0,0,0,0
+1075,129,45,75,-15,12,95,220,42,6,47,1,0,0,0,0,0,0,0,0,0
+1081,127,60,62,-9,10,86,217,1,3,58,1,0,0,0,0,0,0,0,0,0
+1083,156,87,56,-5,77,60,209,5,16,76,1,0,0,0,0,0,0,0,0,0
+1090,123,78,61,-8,28,85,242,9,5,58,1,0,0,0,0,0,0,0,0,0
+1094,96,90,47,-6,34,42,215,15,6,70,1,0,0,0,0,0,0,0,0,0
+1104,95,85,60,-8,63,64,191,1,3,38,0,0,0,0,1,0,0,0,0,0
+1112,121,57,80,-13,11,96,327,45,3,41,1,0,0,0,0,0,0,0,0,0
+1114,116,91,57,-5,16,42,208,6,13,83,1,0,0,0,0,0,0,0,0,0
+1116,134,23,35,-10,38,18,221,90,3,67,0,0,1,0,0,0,0,0,0,0
+1125,105,36,63,-9,13,67,245,11,3,77,0,0,1,0,0,0,0,0,0,0
+1127,77,70,41,-9,11,37,309,22,3,64,1,0,0,0,0,0,0,0,0,0
+1128,75,66,53,-6,7,76,159,43,3,70,1,0,0,0,0,0,0,0,0,0
+1131,169,84,47,-6,11,69,158,0,6,63,1,0,0,0,0,0,0,0,0,0
+1133,129,23,42,-17,22,20,232,63,4,59,0,0,1,0,0,0,0,0,0,0
+1134,131,67,58,-12,5,45,235,8,4,52,0,1,0,0,0,0,0,0,0,0
+1141,118,53,67,-11,30,81,303,9,3,64,0,0,1,0,0,0,0,0,0,0
+1146,167,74,49,-6,11,46,255,28,4,44,1,0,0,0,0,0,0,0,0,0
+1148,114,54,81,-13,16,85,221,18,4,73,0,1,0,0,0,0,0,0,0,0
+1149,122,57,87,-11,13,56,215,37,4,49,0,1,0,0,0,0,0,0,0,0
+1151,101,75,36,-9,23,42,321,0,4,40,0,1,0,0,0,0,0,0,0,0
+1153,117,54,59,-11,31,59,302,18,3,66,1,0,0,0,0,0,0,0,0,0
+1157,110,53,93,-6,16,76,215,11,16,74,1,0,0,0,0,0,0,0,0,0
+1158,188,70,31,-6,8,76,255,1,5,83,1,0,0,0,0,0,0,0,0,0
+1168,127,38,56,-15,5,89,303,1,4,49,1,0,0,0,0,0,0,0,0,0
+1171,120,74,71,-11,26,87,266,27,5,62,1,0,0,0,0,0,0,0,0,0
+1177,82,45,51,-7,13,33,230,36,3,51,1,0,0,0,0,0,0,0,0,0
+1187,143,76,56,-7,8,93,214,0,3,65,1,0,0,0,0,0,0,0,0,0
+1192,119,75,50,-9,45,51,251,13,4,80,1,0,0,0,0,0,0,0,0,0
+1194,94,38,56,-15,14,60,207,14,3,67,1,0,0,0,0,0,0,0,0,0
+1196,122,93,63,-4,9,97,213,4,4,76,1,0,0,0,0,0,0,0,0,0
+1198,117,79,61,-6,57,91,274,16,3,58,1,0,0,0,0,0,0,0,0,0
+1199,145,51,52,-8,29,65,154,48,4,53,1,0,0,0,0,0,0,0,0,0
+1200,76,24,18,-15,11,12,235,42,4,56,0,0,1,0,0,0,0,0,0,0
+1201,121,73,40,-6,20,49,243,32,4,35,1,0,0,0,0,0,0,0,0,0
+1210,117,65,92,-3,4,85,294,2,4,81,0,1,0,0,0,0,0,0,0,0
+1211,174,94,25,-5,16,46,234,3,7,60,1,0,0,0,0,0,0,0,0,0
+1216,115,60,62,-8,12,58,228,14,4,24,0,0,0,0,1,0,0,0,0,0
+1217,141,66,58,-14,7,66,361,1,4,52,0,1,0,0,0,0,0,0,0,0
+1228,170,35,56,-14,20,72,247,43,3,46,0,1,0,0,0,0,0,0,0,0
+1229,93,51,62,-10,26,69,246,54,3,65,0,1,0,0,0,0,0,0,0,0
+1231,113,83,74,-6,38,82,189,8,12,79,1,0,0,0,0,0,0,0,0,0
+1233,122,92,85,-4,6,90,362,2,4,64,0,1,0,0,0,0,0,0,0,0
+1242,177,90,50,-7,14,77,183,36,18,79,1,0,0,0,0,0,0,0,0,0
+1249,105,40,61,-15,5,71,244,10,3,33,1,0,0,0,0,0,0,0,0,0
+1254,127,52,55,-13,11,60,287,34,3,40,0,0,0,0,1,0,0,0,0,0
+1256,129,72,60,-8,8,56,308,50,4,43,1,0,0,0,0,0,0,0,0,0
+1276,113,93,26,-7,11,28,417,0,11,62,0,0,0,1,0,0,0,0,0,0
+1282,81,61,58,-10,11,46,278,16,6,53,1,0,0,0,0,0,0,0,0,0
+1283,117,34,65,-12,7,39,280,49,4,58,1,0,0,0,0,0,0,0,0,0
+1290,118,82,78,-7,8,91,358,6,3,55,1,0,0,0,0,0,0,0,0,0
+1294,135,58,69,-11,12,94,302,29,3,71,1,0,0,0,0,0,0,0,0,0
+1299,79,27,34,-16,26,14,210,61,3,44,0,1,0,0,0,0,0,0,0,0
+1300,127,81,56,-6,29,64,233,1,3,65,1,0,0,0,0,0,0,0,0,0
+1303,110,8,52,-20,10,10,408,75,3,41,0,1,0,0,0,0,0,0,0,0
+1308,115,68,43,-7,21,51,229,5,3,54,1,0,0,0,0,0,0,0,0,0
+1314,90,55,50,-13,10,45,244,45,3,53,0,0,0,0,0,1,0,0,0,0
+1327,131,82,60,-14,13,74,205,12,4,57,1,0,0,0,0,0,0,0,0,0
+1333,114,46,69,-12,6,70,312,25,3,50,1,0,0,0,0,0,0,0,0,0
+1337,131,31,50,-16,12,25,291,48,3,66,0,1,0,0,0,0,0,0,0,0
+1346,90,100,28,-4,15,10,291,0,16,57,0,0,0,1,0,0,0,0,0,0
+1347,123,89,53,-4,29,80,249,8,3,83,0,0,0,1,0,0,0,0,0,0
+1354,123,13,50,-18,36,21,401,35,8,51,1,0,0,0,0,0,0,0,0,0
+1355,128,76,78,-8,8,82,280,18,5,75,1,0,0,0,0,0,0,0,0,0
+1359,136,77,52,-6,14,88,245,4,3,73,1,0,0,0,0,0,0,0,0,0
+1365,75,53,44,-8,34,35,247,4,3,50,1,0,0,0,0,0,0,0,0,0
+1373,111,86,56,-8,23,94,418,0,3,53,1,0,0,0,0,0,0,0,0,0
+1374,120,32,43,-21,98,52,193,20,17,41,1,0,0,0,0,0,0,0,0,0
+1380,88,63,53,-13,8,75,228,6,5,65,1,0,0,0,0,0,0,0,0,0
+1382,134,86,50,-6,8,42,209,1,7,68,1,0,0,0,0,0,0,0,0,0
+1384,110,31,67,-14,11,27,353,41,3,56,0,1,0,0,0,0,0,0,0,0
+1386,131,88,66,-6,7,84,210,34,3,60,1,0,0,0,0,0,0,0,0,0
+1400,115,49,73,-11,9,73,227,26,3,78,1,0,0,0,0,0,0,0,0,0
+1402,175,45,42,-13,10,17,219,64,4,73,1,0,0,0,0,0,0,0,0,0
+1414,129,16,63,-21,12,18,239,93,3,43,0,1,0,0,0,0,0,0,0,0
+1415,114,85,88,-5,14,54,298,5,15,72,0,1,0,0,0,0,0,0,0,0
+1417,114,89,79,-4,7,39,247,0,4,68,0,1,0,0,0,0,0,0,0,0
+1422,113,84,71,-8,30,86,246,16,4,62,1,0,0,0,0,0,0,0,0,0
+1427,206,89,38,-9,3,80,247,3,4,67,1,0,0,0,0,0,0,0,0,0
+1430,169,83,55,-11,22,91,241,9,3,63,0,0,1,0,0,0,0,0,0,0
+1431,105,55,75,-7,13,45,233,46,10,59,0,1,0,0,0,0,0,0,0,0
+1436,127,39,74,-17,9,59,382,38,3,56,1,0,0,0,0,0,0,0,0,0
+1438,141,98,31,-3,26,63,211,9,10,42,1,0,0,0,0,0,0,0,0,0
+1441,110,53,52,-14,5,35,252,7,3,34,1,0,0,0,0,0,0,0,0,0
+1448,116,67,65,-11,13,59,254,5,4,50,1,0,0,0,0,0,0,0,0,0
+1450,98,41,58,-16,6,53,310,13,3,53,1,0,0,0,0,0,0,0,0,0
+1454,98,42,52,-13,7,31,330,58,3,55,1,0,0,0,0,0,0,0,0,0
+1458,103,69,52,-11,11,93,229,10,3,59,1,0,0,0,0,0,0,0,0,0
+1459,115,77,68,-6,25,71,200,11,3,63,1,0,0,0,0,0,0,0,0,0
+1462,115,56,78,-11,7,94,292,7,3,46,0,1,0,0,0,0,0,0,0,0
+1465,90,41,63,-13,31,70,291,6,3,41,0,0,0,0,1,0,0,0,0,0
+1466,132,88,49,-5,37,52,282,0,3,65,1,0,0,0,0,0,0,0,0,0
+1467,119,91,28,-6,18,26,270,3,11,70,1,0,0,0,0,0,0,0,0,0
+1468,92,84,41,-6,37,39,242,3,5,55,1,0,0,0,0,0,0,0,0,0
+1479,160,61,43,-8,6,37,391,2,3,66,1,0,0,0,0,0,0,0,0,0
+1496,134,82,72,-6,85,87,322,3,5,69,1,0,0,0,0,0,0,0,0,0
+1505,138,57,37,-11,9,30,246,2,3,59,0,0,0,1,0,0,0,0,0,0
+1506,144,59,62,-11,5,65,253,4,3,60,1,0,0,0,0,0,0,0,0,0
+1507,81,42,15,-12,21,17,273,43,3,69,1,0,0,0,0,0,0,0,0,0
+1520,117,91,50,-5,11,72,302,0,6,74,1,0,0,0,0,0,0,0,0,0
+1521,73,73,21,-6,30,17,393,18,6,49,1,0,0,0,0,0,0,0,0,0
+1523,123,82,58,-9,6,64,332,0,3,74,0,0,0,1,0,0,0,0,0,0
+1525,85,35,56,-13,14,46,264,6,5,81,1,0,0,0,0,0,0,0,0,0
+1526,175,79,46,-10,11,86,234,1,8,49,1,0,0,0,0,0,0,0,0,0
+1541,117,61,53,-10,12,53,401,1,3,61,1,0,0,0,0,0,0,0,0,0
+1545,174,90,41,-8,19,67,273,43,3,61,0,1,0,0,0,0,0,0,0,0
+1548,132,27,32,-11,17,15,302,58,4,56,1,0,0,0,0,0,0,0,0,0
+1549,92,94,67,-10,15,78,283,0,5,73,1,0,0,0,0,0,0,0,0,0
+1553,153,78,26,-9,12,26,183,1,6,68,0,0,0,1,0,0,0,0,0,0
+1561,108,53,91,-9,5,90,241,50,5,54,1,0,0,0,0,0,0,0,0,0
+1562,104,60,66,-9,10,26,399,13,3,39,1,0,0,0,0,0,0,0,0,0
+1564,91,61,74,-11,6,89,221,9,8,55,1,0,0,0,0,0,0,0,0,0
+1575,114,39,57,-11,10,57,258,80,3,62,1,0,0,0,0,0,0,0,0,0
+1582,134,56,56,-10,11,45,296,16,3,78,0,1,0,0,0,0,0,0,0,0
+1585,131,59,43,-12,36,46,345,22,3,45,0,1,0,0,0,0,0,0,0,0
+1591,115,52,65,-14,10,45,389,0,3,58,1,0,0,0,0,0,0,0,0,0
+1596,153,40,54,-10,16,24,289,58,4,73,0,1,0,0,0,0,0,0,0,0
+1601,118,97,57,-4,8,57,347,0,5,58,0,0,0,1,0,0,0,0,0,0
+1602,148,48,39,-9,26,57,217,62,3,73,0,0,0,1,0,0,0,0,0,0
+1623,159,96,37,-5,35,44,283,0,7,58,1,0,0,0,0,0,0,0,0,0
+1626,112,75,42,-11,7,23,170,1,5,64,1,0,0,0,0,0,0,0,0,0
+1633,90,26,75,-15,12,13,206,70,4,45,1,0,0,0,0,0,0,0,0,0
+1643,90,82,40,-7,37,10,231,0,5,62,0,0,0,1,0,0,0,0,0,0
+1646,120,43,51,-10,6,21,309,18,4,67,0,1,0,0,0,0,0,0,0,0
+1648,94,45,36,-10,28,14,271,6,2,69,1,0,0,0,0,0,0,0,0,0
+1650,98,91,53,-4,23,81,178,2,3,75,1,0,0,0,0,0,0,0,0,0
+1653,174,52,81,-14,10,59,213,6,30,45,0,0,0,0,0,1,0,0,0,0
+1654,115,39,62,-12,91,44,196,68,4,57,1,0,0,0,0,0,0,0,0,0
+1661,138,45,49,-12,18,13,254,31,3,62,1,0,0,0,0,0,0,0,0,0
+1667,160,61,28,-8,11,16,290,28,4,54,1,0,0,0,0,0,0,0,0,0
+1671,143,48,66,-9,12,64,191,64,4,73,1,0,0,0,0,0,0,0,0,0
+1673,150,82,55,-9,4,57,217,2,5,60,0,0,0,0,0,1,0,0,0,0
+1679,73,40,41,-8,16,21,259,58,3,49,1,0,0,0,0,0,0,0,0,0
+1680,127,79,77,-10,5,96,266,2,3,74,0,0,0,1,0,0,0,0,0,0
+1682,122,83,59,-6,38,58,325,10,4,45,1,0,0,0,0,0,0,0,0,0
+1690,122,72,40,-9,5,48,258,0,6,71,0,0,0,1,0,0,0,0,0,0
+1691,54,56,36,-6,31,14,230,18,3,29,1,0,0,0,0,0,0,0,0,0
+1703,127,35,53,-15,15,73,193,12,3,57,0,0,1,0,0,0,0,0,0,0
+1709,92,29,77,-17,57,51,299,3,14,74,0,0,0,0,0,0,0,0,0,1
+1716,71,58,39,-7,22,38,295,47,3,63,1,0,0,0,0,0,0,0,0,0
+1717,169,72,41,-8,8,31,189,0,4,54,1,0,0,0,0,0,0,0,0,0
+1719,171,92,36,-6,41,52,357,3,5,78,1,0,0,0,0,0,0,0,0,0
+1720,70,13,35,-14,17,29,161,85,4,48,0,0,0,0,0,1,0,0,0,0
+1721,125,92,64,-6,33,72,234,0,4,67,0,0,0,1,0,0,0,0,0,0
+1725,104,86,53,-5,24,86,291,19,3,46,0,0,0,0,1,0,0,0,0,0
+1726,164,85,25,-7,5,19,387,4,6,67,1,0,0,0,0,0,0,0,0,0
+1727,100,33,43,-9,14,36,206,89,3,49,0,0,0,0,0,1,0,0,0,0
+1742,99,28,43,-12,12,4,280,73,3,75,0,1,0,0,0,0,0,0,0,0
+1745,144,90,43,-4,21,60,279,0,4,51,0,0,0,1,0,0,0,0,0,0
+1750,153,23,38,-12,13,15,225,85,3,61,0,0,1,0,0,0,0,0,0,0
+1756,166,49,38,-12,11,21,211,24,6,50,0,0,0,0,1,0,0,0,0,0
+1759,135,55,44,-8,54,26,347,49,3,66,1,0,0,0,0,0,0,0,0,0
+1764,128,51,57,-13,13,28,435,4,3,43,1,0,0,0,0,0,0,0,0,0
+1771,96,50,92,-10,7,56,194,1,10,46,1,0,0,0,0,0,0,0,0,0
+1773,122,51,48,-10,17,51,242,38,4,54,0,0,0,0,0,1,0,0,0,0
+1778,84,48,50,-8,20,47,190,48,9,50,1,0,0,0,0,0,0,0,0,0
+1780,122,98,71,-7,76,58,255,3,5,51,1,0,0,0,0,0,0,0,0,0
+1782,96,80,22,-6,9,26,291,0,4,37,1,0,0,0,0,0,0,0,0,0
+1785,127,90,56,-6,57,80,267,12,10,50,1,0,0,0,0,0,0,0,0,0
+1796,117,27,39,-14,11,17,275,17,3,56,1,0,0,0,0,0,0,0,0,0
+1798,174,38,44,-11,10,19,263,36,3,37,0,0,0,0,0,1,0,0,0,0
+1801,96,77,59,-3,13,33,330,0,3,81,1,0,0,0,0,0,0,0,0,0
+1811,127,10,34,-16,10,26,205,81,3,41,1,0,0,0,0,0,0,0,0,0
+1818,150,40,45,-12,6,17,332,3,3,24,0,1,0,0,0,0,0,0,0,0
+1824,116,92,61,-4,30,96,295,16,3,70,1,0,0,0,0,0,0,0,0,0
+1825,86,68,87,-6,9,82,268,4,32,72,0,0,0,0,0,0,0,0,0,1
+1826,112,65,58,-8,11,13,286,1,3,52,0,0,0,0,0,0,0,1,0,0
+1829,100,29,40,-14,11,34,182,94,3,78,0,0,1,0,0,0,0,0,0,0
+1840,107,22,53,-14,11,33,185,84,3,75,1,0,0,0,0,0,0,0,0,0
+1841,117,58,30,-7,10,23,271,0,3,69,1,0,0,0,0,0,0,0,0,0
+1848,99,69,60,-11,33,76,206,2,3,46,1,0,0,0,0,0,0,0,0,0
+1856,79,33,40,-9,19,55,174,86,4,74,0,0,1,0,0,0,0,0,0,0
+1860,80,14,22,-15,11,13,267,86,3,62,0,0,1,0,0,0,0,0,0,0
+1864,159,80,46,-9,40,61,202,5,9,78,1,0,0,0,0,0,0,0,0,0
+1867,138,28,58,-9,31,81,127,94,4,71,0,0,0,0,0,0,0,0,1,0
+1870,137,90,60,-7,7,62,219,4,5,65,1,0,0,0,0,0,0,0,0,0
+1872,126,75,57,-5,9,90,180,40,3,61,0,1,0,0,0,0,0,0,0,0
+1873,93,38,49,-12,10,53,150,83,3,65,1,0,0,0,0,0,0,0,0,0
+1876,97,15,52,-20,12,21,174,13,3,66,0,0,0,0,0,0,1,0,0,0
+1878,127,18,56,-15,15,37,123,83,4,48,0,1,0,0,0,0,0,0,0,0
+1884,85,48,20,-5,7,17,269,47,3,68,1,0,0,0,0,0,0,0,0,0
+1887,151,58,49,-11,41,91,183,18,4,79,1,0,0,0,0,0,0,0,0,0
+1900,80,50,50,-11,20,34,201,35,5,63,1,0,0,0,0,0,0,0,0,0
+1902,65,33,31,-9,14,67,208,5,3,69,0,0,0,0,0,0,0,0,1,0
+1904,105,55,52,-11,17,52,196,83,3,63,1,0,0,0,0,0,0,0,0,0
+1921,112,52,46,-9,28,35,256,65,3,45,1,0,0,0,0,0,0,0,0,0
+1928,133,36,59,-14,6,50,217,48,4,75,0,0,1,0,0,0,0,0,0,0
+1929,111,32,65,-9,19,28,167,21,3,69,0,0,1,0,0,0,0,0,0,0
+1933,167,52,18,-8,6,42,222,39,3,48,0,1,0,0,0,0,0,0,0,0
+1934,144,55,63,-9,10,52,274,37,5,72,1,0,0,0,0,0,0,0,0,0
+1941,99,56,45,-9,5,61,191,24,3,43,0,1,0,0,0,0,0,0,0,0
+1950,119,63,63,-8,17,49,271,45,3,76,1,0,0,0,0,0,0,0,0,0
+1954,133,66,64,-8,15,66,141,20,4,80,1,0,0,0,0,0,0,0,0,0
+1961,134,34,40,-11,14,38,182,20,3,72,0,0,0,0,0,0,0,0,1,0
+1962,136,6,32,-22,14,26,191,83,4,50,1,0,0,0,0,0,0,0,0,0
+1963,95,72,27,-6,6,26,320,1,3,42,1,0,0,0,0,0,0,0,0,0
+1967,80,45,39,-10,19,39,240,0,3,46,0,1,0,0,0,0,0,0,0,0
+1970,103,59,47,-10,14,22,202,20,14,41,1,0,0,0,0,0,0,0,0,0
+1972,101,42,48,-10,14,47,197,9,3,44,0,1,0,0,0,0,0,0,0,0
+1979,121,3,31,-22,16,14,261,73,4,64,0,0,1,0,0,0,0,0,0,0
+1980,109,90,43,-5,12,77,190,41,7,68,1,0,0,0,0,0,0,0,0,0
+1984,129,41,46,-11,28,44,173,5,4,48,1,0,0,0,0,0,0,0,0,0
+1988,119,24,75,-15,9,43,216,83,12,68,0,0,1,0,0,0,0,0,0,0
+1989,168,7,17,-21,14,10,298,92,3,66,0,0,1,0,0,0,0,0,0,0
+1991,175,76,36,-8,76,95,136,73,6,69,0,0,1,0,0,0,0,0,0,0
+1992,168,80,53,-9,31,97,162,74,7,74,1,0,0,0,0,0,0,0,0,0
