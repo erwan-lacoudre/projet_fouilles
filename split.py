@@ -16,3 +16,4 @@ def split_lines(input, seed, output1, output2):
 
 if __name__ == "__main__":
     split_lines('cleaned_data.csv', 20, 'train.csv', 'test.csv')
+    
