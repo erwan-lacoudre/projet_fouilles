@@ -12,4 +12,4 @@ def split_lines(input, seed, output1, output2):
             out2.write(line)
 
 if __name__ == "__main__":
-    split_lines('cleaned_music.csv', 20, 'train.csv', 'test.csv')
+    split_lines('cleaned_data.csv', 20, 'train.csv', 'test.csv')
